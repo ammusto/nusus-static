@@ -1,28 +1,24 @@
-import React, { useState, useEffect } from 'react';
-import { useParams } from 'react-router-dom';
+import React, { useState, useEffect, useCallback, useMemo } from 'react';
+import { useParams, Link } from 'react-router-dom';
 import { loadTexts, getAuthorById } from '../../services/metadataLoader';
-import TEIDownloader from '../../utils/TEIDownloader'
-import { Link } from 'react-router-dom';
+import TEIDownloader from '../../utils/TEIDownloader';
 
 const TextPage = () => {
   const { textId } = useParams();
-  const [text, setText] = useState(null);
-  const [author, setAuthor] = useState(null);
+  const [textData, setTextData] = useState({ text: null, author: null });
 
   useEffect(() => {
     const fetchData = async () => {
       const texts = await loadTexts();
       const foundText = texts.find(t => t.text_id === textId);
-      setText(foundText);
       if (foundText) {
         const authorData = await getAuthorById(foundText.au_id_id);
-        setAuthor(authorData);
+        setTextData({ text: foundText, author: authorData });
       }
     };
     fetchData();
   }, [textId]);
-
-  const labelMap = [
+  const labelMap = useMemo(() => [
     { key: 'genre_id', label: 'Genre' },
     { key: 'style', label: 'Format' },
     { key: 'word_len', label: 'Tokens' },
@@ -32,9 +28,10 @@ const TextPage = () => {
     { key: 'source', label: 'Source' },
     { key: 'permbib', label: 'Base Edition' },
     { key: 'contrib', label: 'Contributor' }
-  ];
+  ], []);
 
-  const downloadTextAsCSV = () => {
+  const downloadTextAsCSV = useCallback(() => {
+    const { text, author } = textData;
     if (!text || !author) return;
 
     const BOM = '\uFEFF';
@@ -75,9 +72,9 @@ const TextPage = () => {
       link.click();
       document.body.removeChild(link);
     }
-  };
+  }, [textData]);
 
-  if (!text) return (
+  if (!textData.text) return (
     <div className="container">
       <div className='main'>
         <div className='text-content'>
@@ -86,6 +83,8 @@ const TextPage = () => {
       </div>
     </div>
   );
+
+  const { text, author } = textData;
 
   return (
     <div className="container">
@@ -104,7 +103,7 @@ const TextPage = () => {
                 <td>
                   <ul>
                     <li></li>
-                    <li><Link to={`/author/${text.au_id_id}`}>{author ? author.au_tl : ''}</Link></li>
+                    <li><Link to={`/author/${text.au_id_id}`}>{author ? author.au_tl : ''}</Link> (d. {author.date})</li>
                     <li><Link to={`/author/${text.au_id_id}`}>{author ? author.au_ar : ''}</Link></li>
                   </ul>
                 </td>
@@ -127,34 +126,21 @@ const TextPage = () => {
                           text[key]
                         )
                       }
-
                     </td>
                   </tr>
                 )
               ))}
               <tr>
-                <td>
-                  Browse Text
-                </td>
-                <td>
-                  <Link to={`/reader/${text.text_id}`}>nuṣūṣ Reader</Link>
-                </td>
+                <td>Browse Text</td>
+                <td><Link to={`/reader/${text.text_id}`}>nuṣūṣ Reader</Link></td>
               </tr>
               <tr>
-                <td>
-                  Download Text
-                </td>
-                <td>
-                  <TEIDownloader textId={text.text_id} titleTl={text.title_tl} linkText='TEI Encoded' />
-                </td>
+                <td>Download Text</td>
+                <td><TEIDownloader textId={text.text_id} titleTl={text.title_tl} linkText='TEI Encoded' /></td>
               </tr>
               <tr>
-                <td>
-                  Metadata
-                </td>
-                <td>
-                  <button className="text-button" onClick={downloadTextAsCSV}>Download as CSV</button>
-                </td>
+                <td>Metadata</td>
+                <td><button className="text-button" onClick={downloadTextAsCSV}>Download as CSV</button></td>
               </tr>
             </tbody>
           </table>

@@ -17,7 +17,7 @@ const Header = () => {
           <ul className='flex'>
             <li><Link to="/">Home</Link></li>
             <li><Link to="/metadata">Metadata Browser</Link></li>
-            <li><botton className="text-button" onClick={handleSearchClick}>Search</botton></li>
+            <li><button className="text-button" onClick={handleSearchClick}>Search</button></li>
             <li><Link to="/about">About</Link></li>
           </ul>
         </nav>
