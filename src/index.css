@@ -128,13 +128,15 @@ input[type=text] {
   display: flex;
 }
 
+nav .text-button {
+  text-decoration: none;
+}
 .text-button {
   background-color: transparent;
   font-size:.95rem;
   padding:0px;
   min-height:10px;
   text-decoration: underline;
-
 }
 
 .text-button:hover {
