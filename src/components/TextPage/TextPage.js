@@ -34,15 +34,58 @@ const TextPage = () => {
     { key: 'contrib', label: 'Contributor' }
   ];
 
-  if (!text) return
+  const downloadTextAsCSV = () => {
+    if (!text || !author) return;
 
-  <div className="container">
-    <div className='main'>
-      <div className='text-content'>
-        <div>Loading...</div>
+    const BOM = '\uFEFF';
+
+    const entries = Object.entries(text)
+      .filter(([key]) => key !== "meta" && key !== "au_id_id" && key !== "style");
+
+    const authorInfo = [
+      ['author', author.au_tl],
+      ['author_ar', author.au_ar],
+      ['author_date', author.date]
+    ];
+
+    const combinedEntries = [
+      ...entries.slice(0, 3),
+      ...authorInfo,
+      ...entries.slice(3)
+    ];
+
+    const csvContent = combinedEntries
+      .map(([key, value]) => {
+        const escapedValue = `"${String(value).replace(/"/g, '""')}"`;
+        return `${key},${escapedValue}`;
+      })
+      .join('\n');
+
+    const fullContent = BOM + csvContent;
+
+    const blob = new Blob([fullContent], { type: 'text/csv;charset=utf-8;' });
+
+    const link = document.createElement('a');
+    if (link.download !== undefined) {
+      const url = URL.createObjectURL(blob);
+      link.setAttribute('href', url);
+      link.setAttribute('download', `nusus${text.text_id}_${text.title_tl}_metadata.csv`);
+      link.style.visibility = 'hidden';
+      document.body.appendChild(link);
+      link.click();
+      document.body.removeChild(link);
+    }
+  };
+
+  if (!text) return (
+    <div className="container">
+      <div className='main'>
+        <div className='text-content'>
+          <div>Loading...</div>
+        </div>
       </div>
     </div>
-  </div>;
+  );
 
   return (
     <div className="container">
@@ -86,18 +129,26 @@ const TextPage = () => {
               ))}
               <tr>
                 <td>
-                  Download
+                  Browse Text
                 </td>
                 <td>
-                <TEIDownloader textId={text.text_id} titleTl={text.title_tl} linkText='TEI Encoded'/>
+                  <Link to={`/reader/${text.text_id}`}>nuṣūṣ Reader</Link>
                 </td>
               </tr>
               <tr>
                 <td>
-                  Browse Text
+                  Download Text
                 </td>
                 <td>
-                <Link to={`/reader/${text.text_id}`}>nuṣūṣ Reader</Link>
+                  <TEIDownloader textId={text.text_id} titleTl={text.title_tl} linkText='TEI Encoded' />
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  Metadata
+                </td>
+                <td>
+                  <button className="text-button" onClick={downloadTextAsCSV}>Download as CSV</button>
                 </td>
               </tr>
             </tbody>

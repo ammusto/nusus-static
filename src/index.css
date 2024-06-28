@@ -131,7 +131,12 @@ input[type=text] {
 .text-button {
   background-color: transparent;
   font-size:.95rem;
+  padding:0px;
+  min-height:10px;
+  text-decoration: underline;
+
 }
+
 .text-button:hover {
   text-decoration: underline;
   background-color: transparent;
