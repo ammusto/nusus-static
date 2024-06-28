@@ -6,7 +6,7 @@ const HomePage = () => {
       <div className='main'>
         <div className='text-content'>
           <h2>A Corpus of Digitally Neglected Texts</h2>
-          <p>Nuṣūṣ is a corpus of digitized Arabic texts designed to fill gaps in extant digital corpora. Originally a collection of early Sufi and Sufi-adjacent texts, nuṣūṣ has since expanded to include early works on <em>kalām</em>, <em>falsafa</em>, and Christian theology. Through this website, users can: browse text metadata, including author biographies; read these works online; and, most importantly, search the contents of texts in the corpus. Soon, the digitized versions of these texts will be made available to download for individuals to use for computational textual analysis or other interests.</p>
+          <p>Nuṣūṣ is a corpus of digitized Arabic texts designed to fill gaps in extant digital corpora. Originally a collection of early Sufi and Sufi-adjacent texts, nuṣūṣ has since expanded to include early works on <em>kalām</em>, <em>falsafa</em>, and Christian theology. Through this website, users can: browse text metadata, including author biographies; read these works online; and, most importantly, search the contents of texts in the corpus. The digitized versions of these texts are available to download here on nuṣūṣ for individuals to use for computational textual analysis or other interests. You can also find all the data for nuṣūṣ on the project's <a href="https://github.com/ammusto/nusus-static">github</a>.</p>
           <p>If you are interested in learning more or potentially contributing to this project, please <a href="mailto:nususcorpus@gmail.com"> contact us</a>!</p>
 
         </div>
