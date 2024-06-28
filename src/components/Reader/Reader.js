@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useCallback } from 'react';
+import React, { useState, useEffect, useCallback, useMemo } from 'react';
 import { useParams, useNavigate, useLocation } from 'react-router-dom';
 import { loadTexts } from '../../services/metadataLoader';
 import { Link } from 'react-router-dom';
@@ -19,6 +19,7 @@ const Reader = () => {
   const [pageNumbers, setPageNumbers] = useState([]);
   const [loadedPageIndices, setLoadedPageIndices] = useState([]);
   const [highlightWords, setHighlightWords] = useState([]);
+  const [processedPages, setProcessedPages] = useState({});
 
   useEffect(() => {
     const fetchText = async () => {
@@ -65,6 +66,29 @@ const Reader = () => {
     }
   }, [text, textId, pageNumber]);
 
+  const processedTEIContent = useMemo(() => {
+    if (!teiContent) return {};
+
+    const bodyContent = teiContent.match(/<body>([\s\S]*?)<\/body>/)?.[1] || '';
+    const pageRegex = /<pb n="(\d+)" \/>([\s\S]*?)(?=<pb n="\d+" \/>|$)/g;
+    const pages = {};
+    let match;
+
+    while ((match = pageRegex.exec(bodyContent)) !== null) {
+      const pageText = match[2]
+        .replace(/<div[^>]*>|<\/div>/g, '') 
+        .replace(/<head>/g, '<h3>')         
+        .replace(/<\/head>/g, '</h3>');   
+
+      pages[match[1]] = pageText;
+    }
+
+    return pages;
+  }, [teiContent]);
+
+  useEffect(() => {
+    setProcessedPages(processedTEIContent);
+  }, [processedTEIContent]);
   
   const loadMorePages = useCallback((direction) => {
     setLoadedPageIndices(prevIndices => {
@@ -103,17 +127,16 @@ const Reader = () => {
     return <div>Loading...</div>;
   }
 
-
   const displayPgRng = () => {
     if (text.pg_rng.includes('-')) {
       return text.pg_rng.split('-')[1];
     }
     return text.pg_rng;
   };
+
   return (
     <div className="container">
       <div className='main'>
-
         <div className='text-content reader-content'>
           <Link
             className='preview-link'
@@ -140,7 +163,7 @@ const Reader = () => {
             </div>
           </div>
           <TEIRenderer
-            content={teiContent}
+            pageContents={processedPages}
             currentPageIndex={currentPageIndex}
             pageNumbers={pageNumbers}
             highlightWords={highlightWords}
@@ -167,7 +190,6 @@ const Reader = () => {
         </div>
       </div>
     </div>
-
   );
 };
 
