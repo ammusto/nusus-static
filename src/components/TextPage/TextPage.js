@@ -114,15 +114,20 @@ const TextPage = () => {
                   <tr key={key}>
                     <td>{label}</td>
                     <td>
-                      {key === 'perm' && text[key] !== '' ? (
-                        <a href={text[key]}>Worldcat</a>
-                      ) : key === 'pdf' && text[key] !== '' ? (
-                        <a href={text[key]}>Available</a>
-                      ) : key === 'permbib' ? (
-                        <div dangerouslySetInnerHTML={{ __html: text[key] }} />
-                      ) : (
-                        text[key]
-                      )}
+                      {
+                        (key === 'perm' && text[key] !== '' &&  text[key] !== '0') ? (
+                          <a href={text[key]}>Worldcat</a>
+                        ) : (key === 'pdf' && text[key] !== '' &&  text[key] !== '0') ? (
+                          <a href={text[key]}>Available</a>
+                        ) : (key === 'permbib') ? (
+                          <div dangerouslySetInnerHTML={{ __html: text[key] }} />
+                        ) : (text[key] === '0' || text[key] === '-') ? (
+                          'N/A'
+                        ) : (
+                          text[key]
+                        )
+                      }
+
                     </td>
                   </tr>
                 )

@@ -3,6 +3,7 @@ import { Link, useLocation, useNavigate } from 'react-router-dom';
 import { loadTexts, loadAuthors } from '../../services/metadataLoader';
 import FilterDropdown from './FilterDropdown';
 import TEIDownloader  from '../../utils/TEIDownloader'
+import CSVDownloader from '../../utils/CSVDownloader';
 import './Metadata.css';
 
 const MetadataBrowser = () => {
@@ -258,15 +259,15 @@ const MetadataBrowser = () => {
       </div>
 
       <div className='meta-show-items'>
-      <button className="text-button" onClick={() => handleResetFilters()}>Reset Filters</button>-
-
-        Show
+      <button className="text-button" onClick={() => handleResetFilters()}>Reset Filters</button> - Show
         <select value={itemsPerPage} onChange={handleItemsPerPageChange}>
           <option value={10}>10</option>
           <option value={15}>15</option>
           <option value={25}>25</option>
         </select>
         items per page
+        - <CSVDownloader texts={texts} authors={authors} />
+
       </div>
       <table className='metadata-table'>
         <thead>
