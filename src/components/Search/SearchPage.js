@@ -1,6 +1,6 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useCallback } from 'react';
 import { loadTexts, loadAuthors } from '../../services/metadataLoader';
-import { useLocation, useNavigate } from 'react-router-dom';
+import { useNavigate } from 'react-router-dom';
 import { performSearch } from '../../services/searchService';
 import FilterDropdown from '../MetadataBrowser/FilterDropdown';
 import Results from './Results';
@@ -11,11 +11,9 @@ import './Search.css';
 const ITEMS_PER_PAGE = 20;
 
 const SearchPage = () => {
-  const location = useLocation();
   const navigate = useNavigate();
   const [texts, setTexts] = useState([]);
   const [authors, setAuthors] = useState({});
-  const [genres, setGenres] = useState([]);
   const [allTexts, setAllTexts] = useState([]);
   const [filteredTexts, setFilteredTexts] = useState([]);
   const [searchQuery, setSearchQuery] = useState('');
@@ -33,7 +31,7 @@ const SearchPage = () => {
   const [minDate, setMinDate] = useState(0);
   const [maxDate, setMaxDate] = useState(0);
 
-  const resetSearch = () => {
+  const resetSearch = useCallback(() => {
     setQuery('');
     setSearchQuery('');
     setSelectedTexts([]);
@@ -44,7 +42,7 @@ const SearchPage = () => {
     setHasSearched(false);
     sessionStorage.removeItem('searchPageState');
     navigate('/search', { replace: true });
-  };
+  }, [navigate]);
 
   useEffect(() => {
     const savedState = sessionStorage.getItem('searchPageState');
@@ -65,7 +63,7 @@ const SearchPage = () => {
     } else {
       resetSearch();
     }
-  }, []);
+  }, [resetSearch]);
 
   useEffect(() => {
     if (hasSearched) {
@@ -109,7 +107,6 @@ const SearchPage = () => {
         }, {}));
         setAuthorOptions(authorsData.filter(author => author && author.au_id && author.sh_ar && author.au_ar).map(author => ({ value: author.au_id, label: author.sh_ar })));
         setGenreOptions([...new Set(textsData.filter(text => text && text.genre_id).map(text => text.genre_id))].map(genre => ({ value: genre, label: genre })));
-        setGenres([...new Set(textsData.filter(text => text && text.genre_id).map(text => text.genre_id))]);
       } catch (error) {
         console.error("Error fetching data:", error);
       } finally {
@@ -123,7 +120,8 @@ const SearchPage = () => {
     e.preventDefault();
     setIsLoading(true);
     try {
-      const results = await performSearch(query, selectedTexts, selectedAuthors, selectedGenres);
+      let textsToSearch = selectedTexts.length > 0 ? selectedTexts : allTexts.map(text => text.text_id);
+      const results = await performSearch(query, textsToSearch);
       setSearchResults(Array.isArray(results) ? results : []);
       setSearchQuery(query);
     } catch (error) {
@@ -229,7 +227,7 @@ const SearchPage = () => {
                       max={maxDate}
                       onChange={handleDateRangeChange}
                     />
-<label>Death Date</label>
+                    <label>Death Date</label>
                   </div>
                 </div>
               </div>

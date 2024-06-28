@@ -92,6 +92,14 @@ const TextPage = () => {
                 <TEIDownloader textId={text.text_id} titleTl={text.title_tl} linkText='TEI Encoded'/>
                 </td>
               </tr>
+              <tr>
+                <td>
+                  Browse Text
+                </td>
+                <td>
+                <Link to={`/reader/${text.text_id}`}>nuṣūṣ Reader</Link>
+                </td>
+              </tr>
             </tbody>
           </table>
         </div>

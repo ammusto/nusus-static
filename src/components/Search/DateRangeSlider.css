@@ -30,6 +30,7 @@
     color: white;
     cursor: pointer;
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+    z-index: 9999;
   }
   
   .date-range-labels {

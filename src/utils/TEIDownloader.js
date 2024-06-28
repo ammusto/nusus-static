@@ -21,16 +21,16 @@ const downloadTEI = (textId, titleTl, linkText, img) => {
 
 const TEIDownloader = ({ textId, titleTl, linkText, img }) => {
     return (
-        <a
+        <button
             href="#"
             onClick={(e) => {
                 e.preventDefault();
                 downloadTEI(textId, titleTl, linkText, img);
             }}
-            className={img ? 'img-download-link' : ''}
+            className={img ? 'text-button img-download-link' : 'text-button'}
         >
             {linkText}
-        </a>
+        </button>
     );
 };
 

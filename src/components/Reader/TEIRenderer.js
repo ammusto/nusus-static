@@ -1,7 +1,7 @@
 import React from 'react';
 import { DOMParser } from 'xmldom';
 
-const TEIRenderer = ({ content, currentPageIndex, pageNumbers, highlightWords }) => {
+const TEIRenderer = ({ content, currentPageIndex, highlightWords }) => {
   const parser = new DOMParser();
   const xmlDoc = parser.parseFromString(content, 'text/xml');
 
@@ -10,7 +10,7 @@ const TEIRenderer = ({ content, currentPageIndex, pageNumbers, highlightWords })
 
     const regex = new RegExp(`(${highlightWords.join('|')})`, 'gi');
     return text.split(regex).map((part, index) =>
-      regex.test(part) ? <mark key={index}>{part}</mark> : part
+      regex.test(part) ? <span className='highlight' key={index}>{part}</span> : part
     );
   };
 
@@ -35,7 +35,6 @@ const TEIRenderer = ({ content, currentPageIndex, pageNumbers, highlightWords })
   let contentToRender = [];
 
   if (currentPageElement) {
-    const pageNumber = currentPageElement.getAttribute('n');
 
     let currentNode = currentPageElement.nextSibling;
     while (currentNode && currentNode.nodeName !== 'pb') {

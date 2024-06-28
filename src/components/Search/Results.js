@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import ResultPreview from './ResultPreview';
 import { Link } from 'react-router-dom';
 
@@ -14,11 +14,7 @@ const Results = ({
     query,
     hasSearched
 }) => {
-    const [highlightedToken, setHighlightedToken] = useState('');
 
-    const handleHighlightChange = (token) => {
-        setHighlightedToken(token);
-    };
     const renderResults = () => {
         if (searchResults.length === 0 && !hasSearched) {
             return <p>No results found.</p>;
@@ -59,7 +55,6 @@ const Results = ({
                         pageNum={pageNum}
                         position={parseInt(position)}
                         currentPage={currentPage}
-                        onHighlightChange={handleHighlightChange}
                     />
                 </td>
                 <td>{text ? <Link className='preview-link' to={`/text/${textId}/`}>{text.title_ar}</Link> : `Result: ${result}`}</td>

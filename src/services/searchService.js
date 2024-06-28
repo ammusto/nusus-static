@@ -78,7 +78,7 @@ const searchWildcard = async (pattern, masterIndex) => {
   const regex = new RegExp(regexPattern);
   let results = [];
 
-  for (const [index, range] of Object.entries(masterIndex)) {
+  for (const [index] of Object.entries(masterIndex)) {
     const tokenIndex = await loadTokenIndex(index);
     for (const [token, pages] of Object.entries(tokenIndex)) {
       if (regex.test(token)) {
@@ -151,7 +151,7 @@ const searchNGram = async (ngram, type) => {
     ).join('\\s+') + '$');
 
     let results = [];
-    for (const [file, range] of Object.entries(index)) {
+    for (const [file] of Object.entries(index)) {
       const response = await fetch(`/ngrams/${type}/${file}`);
       if (!response.ok) {
         throw new Error(`HTTP error! status: ${response.status}`);
@@ -188,9 +188,6 @@ const searchPhrase = async (phrase, masterIndex) => {
     return topTerms.has(baseToken);
   });
 
-  const hasWildcard = tokens.some(token =>
-    token.includes('*') || token.includes('?') || token.includes('؟')
-  );
 
   if (hasTopTerm && tokens.length <= 4) {
     const ngramType = ['', '', 'bigram', 'trigram', 'fourgram'][tokens.length];
