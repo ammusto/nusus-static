@@ -16,8 +16,8 @@ const Results = ({
 }) => {
 
     const renderResults = () => {
-        if (searchResults.length === 0 && !hasSearched) {
-            return <p>No results found.</p>;
+        if (searchResults.length === 0 && hasSearched) {
+            return <div className='text-content center'><p>No results found.</p></div>;
         }
 
         return (

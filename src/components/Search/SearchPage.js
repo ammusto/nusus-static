@@ -9,6 +9,7 @@ import './DateRangeSlider.css';
 import './Search.css';
 
 const ITEMS_PER_PAGE = 20;
+const MAX_TERMS = 4;
 
 const SearchPage = () => {
   const navigate = useNavigate();
@@ -30,6 +31,8 @@ const SearchPage = () => {
   const [dateRange, setDateRange] = useState([0, 0]);
   const [minDate, setMinDate] = useState(0);
   const [maxDate, setMaxDate] = useState(0);
+  const [isErrorModalOpen, setIsErrorModalOpen] = useState(false);
+  const [errorMessage, setErrorMessage] = useState('');
 
   const resetSearch = useCallback(() => {
     setQuery('');
@@ -118,12 +121,21 @@ const SearchPage = () => {
 
   const handleSearch = async (e) => {
     e.preventDefault();
+    const trimmedQuery = query.trim();
+    const terms = trimmedQuery.split(/\s+/);
+    
+    if (terms.length > MAX_TERMS) {
+      setErrorMessage(`Search is limited to ${MAX_TERMS} terms.`);
+      setIsErrorModalOpen(true);
+      return;
+    }
+
     setIsLoading(true);
     try {
       let textsToSearch = selectedTexts.length > 0 ? selectedTexts : allTexts.map(text => text.text_id);
-      const results = await performSearch(query, textsToSearch);
+      const results = await performSearch(trimmedQuery, textsToSearch);
       setSearchResults(Array.isArray(results) ? results : []);
-      setSearchQuery(query);
+      setSearchQuery(trimmedQuery);
     } catch (error) {
       console.error("Error performing search:", error);
       setSearchResults([]);
@@ -131,7 +143,7 @@ const SearchPage = () => {
       setCurrentPage(1);
       setHasSearched(true);
       setIsLoading(false);
-      navigate(`/search?q=${encodeURIComponent(query)}`, { replace: true });
+      navigate(`/search?q=${encodeURIComponent(trimmedQuery)}`, { replace: true });
     }
   };
 
@@ -192,9 +204,7 @@ const SearchPage = () => {
               />
             </div>
             <div className="filter-middle flex">
-
               <div className='filter-left'>
-
                 <div className='filter-container flex'>
                   {authorOptions.length > 0 && (
                     <FilterDropdown
@@ -252,24 +262,30 @@ const SearchPage = () => {
             </div>
           </form>
         </div>
-        {
-          hasSearched && (
-            <Results
-              hasSearched={hasSearched}
-              query={searchQuery}
-              texts={texts}
-              searchResults={searchResults}
-              currentResults={currentResults}
-              pageCount={pageCount}
-              startIndex={startIndex}
-              endIndex={endIndex}
-              currentPage={currentPage}
-              handlePageChange={handlePageChange}
-            />
-          )
-        }
-      </div >
-    </div >
+        {hasSearched && (
+          <Results
+            hasSearched={hasSearched}
+            query={searchQuery}
+            texts={texts}
+            searchResults={searchResults}
+            currentResults={currentResults}
+            pageCount={pageCount}
+            startIndex={startIndex}
+            endIndex={endIndex}
+            currentPage={currentPage}
+            handlePageChange={handlePageChange}
+          />
+        )}
+      </div>
+      {isErrorModalOpen && (
+        <div className="modal">
+          <div className="modal-content">
+            <p>{errorMessage}</p>
+            <button onClick={() => setIsErrorModalOpen(false)}>Close</button>
+          </div>
+        </div>
+      )}
+    </div>
   );
 };
 
