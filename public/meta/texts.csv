@@ -1,0 +1,479 @@
+text_id,title_tl,title_ar,au_id_id,genre_id,descr,perm,permbib,pdf,pg_len,pg_rng,word_len,source,style,status,contrib,meta
+1,Kitāb al-ʿIlm,كتاب العلم,1,Sufism,A text,https://www.worldcat.org/title/12692418,"al-Muḥāsibī, al-Ḥārith b. Asad. <em>Kitāb al-ʿIlm</em>. Edited by Muḥammad al-ʿĀbid Mazālī. Tunis: al-Dār al-Tunisiyya li-l-Nashr, 1975",https://archive.org/details/elmohasebi/3ilm/,19,81-99,1543,OCR,kitāb,3,A. Musto,"<meta name=""citation_title"" content =""Kitāb al-ʿIlm"">
+<meta name=""citation_authors"" content=""al-Muḥāsibī"">
+<meta name=""citation_isbn"" content=""0"">
+<meta name=""citation_publisher"" content=""al-Dār al-Tunisiyya li-l-Nashr, Tunis"">
+<meta name=""citation_editors"" content=""Mazālī, Muḥammad al-ʿĀbid"">
+<meta name=""citation_date"" content=""1975"">
+<meta name=""citation_language"" content=""Arabic"">"
+2,Sharḥ al-Maʿrifa,شرح المعرفة,1,Sufism,A text,http://www.worldcat.org/oclc/745277416,"al-Muḥāsibī, al-Ḥārith b. Asad. <em>Sharḥ al-Maʿrifa</em>. Edited by Ṣāliḥ Aḥmad al-Shāmī. Damascus: Dār al-Qalam, 1993",https://archive.org/details/elmohasebi/char7ma3rifa/,61,17-77,4600,OCR,kitāb,3,A. Musto,"<meta name=""citation_title"" content=""Sharḥ al-Maʿrifa"">
+<meta name=""citation_authors"" content=""al-Muḥāsibī"">
+<meta name=""citation_editors"" content=""al-Shāmī, Ṣāliḥ Aḥmad"">
+<meta name=""citation_publisher"" content=""Dār al-Qalam, Damascus"">
+<meta name=""citation_date"" content=""1993"">
+<meta name=""citation_language"" content=""Arabic"">
+<meta name=""citation_isbn"" content=""0"">"
+3,Mā'iyyat al-ʿAql,مائية العقل,1,Sufism,A text,http://www.worldcat.org/oclc/1033847299,"al-Muḥāsibī, al-Ḥārith b. Asad. <em>al-ʿAql wa-fahm al-Qurʿān</em>. Edited by Ḥusayn Qūwatlī. Beirut: Dār al-Fikr, 1971",https://archive.org/details/elmohasebi/3ql/,38,201-238,4323,OITI,kitāb,3,A. Musto,"<meta name=""citation_title"" content=""al-ʿAql wa-fahm al-Qurʼān al-Karīm"">
+<meta name=""citation_authors"" content=""al-Muḥāsibī"">
+<meta name=""citation_editors"" content=""al-Quwwatlī, Ḥusayn"">
+<meta name=""citation_publisher"" content=""Dār al-Fikr, Beirut"">
+<meta name=""citation_date"" content=""1971"">
+<meta name=""citation_language"" content=""Arabic"">
+<meta name=""citation_isbn"" content=""0"">"
+4,Risāla ilā baʿḍ Ikhwāni-hi,رسالة إلى بعض إخوانه,2,Sufism,A text,http://www.worldcat.org/oclc/23141078,"al-Junayd, Abū al-Qāsim. <em>Rasā’il al-Junayd</em>. Edited by ʿAlī Ḥasan ʿAbd al-Qādir. Cairo: Buraʿī wa-l-Jiddāy, 1988",https://archive.org/details/Imam-Aljoneed/%D8%B1%D8%B3%D8%A7%D8%A6%D9%84%20%D8%A7%D9%84%D8%AC%D9%86%D9%8A%D8%AF/,1,1,163,OCR,risāla,3,A. Musto,"<meta name=""citation_title"" content=""Rasā'il al-Junayd"">
+<meta name=""citation_authors"" content=""al-Junayd, Abū al-Qāsim"">
+<meta name=""citation_editors"" content=""ʿAbd al-Qādir, ʿAlī Ḥasan"">
+<meta name=""citation_publisher"" content=""Buraʿī wa-l-Jiddāy, Cairo"">
+<meta name=""citation_date"" content=""1988"">
+<meta name=""citation_language"" content=""Arabic"">
+<meta name=""citation_isbn"" content=""0"">"
+5,Risāla ilā Yaḥyā b. Muʿādh al-Rāzī,رسالة إلى يحيى بن معاذ الرازي,2,Sufism,A text,http://www.worldcat.org/oclc/23141078,"al-Junayd, Abū al-Qāsim. <em>Rasā’il al-Junayd</em>. Edited by ʿAlī Ḥasan ʿAbd al-Qādir. Cairo: Buraʿī wa-l-Jiddāy, 1988",https://archive.org/details/Imam-Aljoneed/%D8%B1%D8%B3%D8%A7%D8%A6%D9%84%20%D8%A7%D9%84%D8%AC%D9%86%D9%8A%D8%AF/,1,2,126,OCR,risāla,3,A. Musto,"<meta name=""citation_title"" content=""Rasā'il al-Junayd"">
+<meta name=""citation_authors"" content=""al-Junayd, Abū al-Qāsim"">
+<meta name=""citation_editors"" content=""ʿAbd al-Qādir, ʿAlī Ḥasan"">
+<meta name=""citation_publisher"" content=""Buraʿī wa-l-Jiddāy, Cairo"">
+<meta name=""citation_date"" content=""1988"">
+<meta name=""citation_language"" content=""Arabic"">
+<meta name=""citation_isbn"" content=""0"">"
+6,Risāla li-Abī al-Qāsim ilā baʿḍ Ikhwāni-hi,رسالة لأبي القاسم الجنيد إلى,2,Sufism,A text,http://www.worldcat.org/oclc/23141078,"al-Junayd, Abū al-Qāsim. <em>Rasā’il al-Junayd</em>. Edited by ʿAlī Ḥasan ʿAbd al-Qādir. Cairo: Buraʿī wa-l-Jiddāy, 1988",https://archive.org/details/Imam-Aljoneed/%D8%B1%D8%B3%D8%A7%D8%A6%D9%84%20%D8%A7%D9%84%D8%AC%D9%86%D9%8A%D8%AF/,3,5-Mar,708,OCR,risāla,3,A. Musto,"<meta name=""citation_title"" content=""Rasā'il al-Junayd"">
+<meta name=""citation_authors"" content=""al-Junayd, Abū al-Qāsim"">
+<meta name=""citation_editors"" content=""ʿAbd al-Qādir, ʿAlī Ḥasan"">
+<meta name=""citation_publisher"" content=""Buraʿī wa-l-Jiddāy, Cairo"">
+<meta name=""citation_date"" content=""1988"">
+<meta name=""citation_language"" content=""Arabic"">
+<meta name=""citation_isbn"" content=""0"">"
+7,Kitāb ilā ʿAmr b. ʿUthmān al-Makkī,كتاب إلى عمرو بن عثمان المكي,2,Sufism,A text,http://www.worldcat.org/oclc/23141078,"al-Junayd, Abū al-Qāsim. <em>Rasā’il al-Junayd</em>. Edited by ʿAlī Ḥasan ʿAbd al-Qādir. Cairo: Buraʿī wa-l-Jiddāy, 1988",https://archive.org/details/Imam-Aljoneed/%D8%B1%D8%B3%D8%A7%D8%A6%D9%84%20%D8%A7%D9%84%D8%AC%D9%86%D9%8A%D8%AF/,18,23-Jun,4245,OCR,kitāb,3,A. Musto,"<meta name=""citation_title"" content=""Rasā'il al-Junayd"">
+<meta name=""citation_authors"" content=""al-Junayd, Abū al-Qāsim"">
+<meta name=""citation_editors"" content=""ʿAbd al-Qādir, ʿAlī Ḥasan"">
+<meta name=""citation_publisher"" content=""Buraʿī wa-l-Jiddāy, Cairo"">
+<meta name=""citation_date"" content=""1988"">
+<meta name=""citation_language"" content=""Arabic"">
+<meta name=""citation_isbn"" content=""0"">"
+8,Kitāb ilā Yūsuf b. al-Ḥusayn al-Rāzī,كتاب إلى أبي يعقوب يسوف بن الحسين,2,Sufism,A text,http://www.worldcat.org/oclc/23141078,"al-Junayd, Abū al-Qāsim. <em>Rasā’il al-Junayd</em>. Edited by ʿAlī Ḥasan ʿAbd al-Qādir. Cairo: Buraʿī wa-l-Jiddāy, 1988",https://archive.org/details/Imam-Aljoneed/%D8%B1%D8%B3%D8%A7%D8%A6%D9%84%20%D8%A7%D9%84%D8%AC%D9%86%D9%8A%D8%AF/,3,26-28,901,OCR,kitāb,3,A. Musto,"<meta name=""citation_title"" content=""Rasā'il al-Junayd"">
+<meta name=""citation_authors"" content=""al-Junayd, Abū al-Qāsim"">
+<meta name=""citation_editors"" content=""ʿAbd al-Qādir, ʿAlī Ḥasan"">
+<meta name=""citation_publisher"" content=""Buraʿī wa-l-Jiddāy, Cairo"">
+<meta name=""citation_date"" content=""1988"">
+<meta name=""citation_language"" content=""Arabic"">
+<meta name=""citation_isbn"" content=""0"">"
+9,Kitāb al-Fanā',كتاب الفناء,2,Sufism,A text,http://www.worldcat.org/oclc/23141078,"al-Junayd, Abū al-Qāsim. <em>Rasā’il al-Junayd</em>. Edited by ʿAlī Ḥasan ʿAbd al-Qādir. Cairo: Buraʿī wa-l-Jiddāy, 1988",https://archive.org/details/Imam-Aljoneed/%D8%B1%D8%B3%D8%A7%D8%A6%D9%84%20%D8%A7%D9%84%D8%AC%D9%86%D9%8A%D8%AF/,6,32-37,1518,OCR,kitāb,3,A. Musto,"<meta name=""citation_title"" content=""Rasā'il al-Junayd"">
+<meta name=""citation_authors"" content=""al-Junayd, Abū al-Qāsim"">
+<meta name=""citation_editors"" content=""ʿAbd al-Qādir, ʿAlī Ḥasan"">
+<meta name=""citation_publisher"" content=""Buraʿī wa-l-Jiddāy, Cairo"">
+<meta name=""citation_date"" content=""1988"">
+<meta name=""citation_language"" content=""Arabic"">
+<meta name=""citation_isbn"" content=""0"">"
+10,Kitāb al-Mīthāq,كتاب الميثاق,2,Sufism,A text,http://www.worldcat.org/oclc/23141078,"al-Junayd, Abū al-Qāsim. <em>Rasā’il al-Junayd</em>. Edited by ʿAlī Ḥasan ʿAbd al-Qādir. Cairo: Buraʿī wa-l-Jiddāy, 1988",https://archive.org/details/Imam-Aljoneed/%D8%B1%D8%B3%D8%A7%D8%A6%D9%84%20%D8%A7%D9%84%D8%AC%D9%86%D9%8A%D8%AF/,3,42-44,775,OCR,kitāb,3,A. Musto,"<meta name=""citation_title"" content=""Rasā'il al-Junayd"">
+<meta name=""citation_authors"" content=""al-Junayd, Abū al-Qāsim"">
+<meta name=""citation_editors"" content=""ʿAbd al-Qādir, ʿAlī Ḥasan"">
+<meta name=""citation_publisher"" content=""Buraʿī wa-l-Jiddāy, Cairo"">
+<meta name=""citation_date"" content=""1988"">
+<meta name=""citation_language"" content=""Arabic"">
+<meta name=""citation_isbn"" content=""0"">"
+11,Fī al-Ulūhiyya,في الألوهية,2,Sufism,A text,http://www.worldcat.org/oclc/23141078,"al-Junayd, Abū al-Qāsim. <em>Rasā’il al-Junayd</em>. Edited by ʿAlī Ḥasan ʿAbd al-Qādir. Cairo: Buraʿī wa-l-Jiddāy, 1988",https://archive.org/details/Imam-Aljoneed/%D8%B1%D8%B3%D8%A7%D8%A6%D9%84%20%D8%A7%D9%84%D8%AC%D9%86%D9%8A%D8%AF/,2,48-49,541,OCR,risāla,3,A. Musto,"<meta name=""citation_title"" content=""Rasā'il al-Junayd"">
+<meta name=""citation_authors"" content=""al-Junayd, Abū al-Qāsim"">
+<meta name=""citation_editors"" content=""ʿAbd al-Qādir, ʿAlī Ḥasan"">
+<meta name=""citation_publisher"" content=""Buraʿī wa-l-Jiddāy, Cairo"">
+<meta name=""citation_date"" content=""1988"">
+<meta name=""citation_language"" content=""Arabic"">
+<meta name=""citation_isbn"" content=""0"">"
+12,Fī al-Farq bayn al-Ṣidq wa-l-Ikhlāṣ,في الفرق بين الصدق والإخلاص,2,Sufism,A text,http://www.worldcat.org/oclc/23141078,"al-Junayd, Abū al-Qāsim. <em>Rasā’il al-Junayd</em>. Edited by ʿAlī Ḥasan ʿAbd al-Qādir. Cairo: Buraʿī wa-l-Jiddāy, 1988",https://archive.org/details/Imam-Aljoneed/%D8%B1%D8%B3%D8%A7%D8%A6%D9%84%20%D8%A7%D9%84%D8%AC%D9%86%D9%8A%D8%AF/,3,52-54,767,OCR,risāla,3,A. Musto,"<meta name=""citation_title"" content=""Rasā'il al-Junayd"">
+<meta name=""citation_authors"" content=""al-Junayd, Abū al-Qāsim"">
+<meta name=""citation_editors"" content=""ʿAbd al-Qādir, ʿAlī Ḥasan"">
+<meta name=""citation_publisher"" content=""Buraʿī wa-l-Jiddāy, Cairo"">
+<meta name=""citation_date"" content=""1988"">
+<meta name=""citation_language"" content=""Arabic"">
+<meta name=""citation_isbn"" content=""0"">"
+13,Fī al-Tawḥīd,في التوحيد,2,Sufism,A text,http://www.worldcat.org/oclc/23141078,"al-Junayd, Abū al-Qāsim. <em>Rasā’il al-Junayd</em>. Edited by ʿAlī Ḥasan ʿAbd al-Qādir. Cairo: Buraʿī wa-l-Jiddāy, 1988",https://archive.org/details/Imam-Aljoneed/%D8%B1%D8%B3%D8%A7%D8%A6%D9%84%20%D8%A7%D9%84%D8%AC%D9%86%D9%8A%D8%AF/,5,58-62,1149,OCR,risāla,3,A. Musto,"<meta name=""citation_title"" content=""Rasā'il al-Junayd"">
+<meta name=""citation_authors"" content=""al-Junayd, Abū al-Qāsim"">
+<meta name=""citation_editors"" content=""ʿAbd al-Qādir, ʿAlī Ḥasan"">
+<meta name=""citation_publisher"" content=""Buraʿī wa-l-Jiddāy, Cairo"">
+<meta name=""citation_date"" content=""1988"">
+<meta name=""citation_language"" content=""Arabic"">
+<meta name=""citation_isbn"" content=""0"">"
+14,Ādāb al-Muftaqir ilā Allāh,آداب المفتقر إلى الله,2,Sufism,A text,http://www.worldcat.org/oclc/23141078,"al-Junayd, Abū al-Qāsim. <em>Rasā’il al-Junayd</em>. Edited by ʿAlī Ḥasan ʿAbd al-Qādir. Cairo: Buraʿī wa-l-Jiddāy, 1988",https://archive.org/details/Imam-Aljoneed/%D8%B1%D8%B3%D8%A7%D8%A6%D9%84%20%D8%A7%D9%84%D8%AC%D9%86%D9%8A%D8%AF/,4,66-69,1024,OCR,kitāb,3,A. Musto,"<meta name=""citation_title"" content=""Rasā'il al-Junayd"">
+<meta name=""citation_authors"" content=""al-Junayd, Abū al-Qāsim"">
+<meta name=""citation_editors"" content=""ʿAbd al-Qādir, ʿAlī Ḥasan"">
+<meta name=""citation_publisher"" content=""Buraʿī wa-l-Jiddāy, Cairo"">
+<meta name=""citation_date"" content=""1988"">
+<meta name=""citation_language"" content=""Arabic"">
+<meta name=""citation_isbn"" content=""0"">"
+15,Kitāb Dawā' al-Tafrīṭ,كتاب دواء التفريط,2,Sufism,A text,http://www.worldcat.org/oclc/23141078,"al-Junayd, Abū al-Qāsim. <em>Rasā’il al-Junayd</em>. Edited by ʿAlī Ḥasan ʿAbd al-Qādir. Cairo: Buraʿī wa-l-Jiddāy, 1988",https://archive.org/details/Imam-Aljoneed/%D8%B1%D8%B3%D8%A7%D8%A6%D9%84%20%D8%A7%D9%84%D8%AC%D9%86%D9%8A%D8%AF/,5,72-76,1258,OCR,kitāb,3,A. Musto,"<meta name=""citation_title"" content=""Rasā'il al-Junayd"">
+<meta name=""citation_authors"" content=""al-Junayd, Abū al-Qāsim"">
+<meta name=""citation_editors"" content=""ʿAbd al-Qādir, ʿAlī Ḥasan"">
+<meta name=""citation_publisher"" content=""Buraʿī wa-l-Jiddāy, Cairo"">
+<meta name=""citation_date"" content=""1988"">
+<meta name=""citation_language"" content=""Arabic"">
+<meta name=""citation_isbn"" content=""0"">"
+16,Kitāb Dawā' al-Arwāḥ,كتاب دواء الأرواح,2,Sufism,A text,http://www.worldcat.org/oclc/62886370,"al-Junayd, Abū al-Qāsim. <em>Rasā’il al-Junayd</em>. Edited by Jamāl Rajab Sīdbī. Damascus: Dār Iqra’, 2005",https://archive.org/details/rasail_al_junayd,5,105-109,1648,OCR,kitāb,3,A. Musto,"<meta name=""citation_title"" content=""Rasā'il al-Junayd: Awwal ʿAmal Yajmaʿ Kull Rasā'il al-Imām al-Junayd"">
+<meta name=""citation_authors"" content=""al-Junayd, Abū al-Qāsim"">
+<meta name=""citation_editors"" content=""Sīdbī, Jamāl Rajab"">
+<meta name=""citation_publisher"" content=""Dār Iqra', Damascus"">
+<meta name=""citation_date"" content=""2005"">
+<meta name=""citation_language"" content=""Arabic"">
+<meta name=""citation_isbn"" content=""0"">"
+17,Risāla ilā Yūsuf b. Yaḥyā,رسالة إلى يسوف بن يحيى,2,Sufism,A text,http://www.worldcat.org/oclc/62886370,"al-Junayd, Abū al-Qāsim. <em>Rasā’il al-Junayd</em>. Edited by Jamāl Rajab Sīdbī. Damascus: Dār Iqra’, 2005",https://archive.org/details/rasail_al_junayd,4,191-194,1064,OCR,risāla,3,A. Musto,"<meta name=""citation_title"" content=""Rasā'il al-Junayd: Awwal ʿAmal Yajmaʿ Kull Rasā'il al-Imām al-Junayd"">
+<meta name=""citation_authors"" content=""al-Junayd, Abū al-Qāsim"">
+<meta name=""citation_editors"" content=""Sīdbī, Jamāl Rajab"">
+<meta name=""citation_publisher"" content=""Dār Iqra', Damascus"">
+<meta name=""citation_date"" content=""2005"">
+<meta name=""citation_language"" content=""Arabic"">
+<meta name=""citation_isbn"" content=""0"">"
+18,Kitāb al-Ḍiyā',كتاب الضياء,3,Sufism,A text,http://www.worldcat.org/oclc/23487100,"al-Kharrāz, Aḥmad b. ʿĪsā. <em>Rasā’il al-Kharrāz</em>. Edited by Qāsim Samarrā’ī. Baghdad: Maṭbaʿat al-Majmaʿ al-ʿIlmī al-Iʿrāqī, 1967",0,3,28-30,667,OCR,kitāb,3,A. Musto,"<meta name=""citation_title"" content=""Rasā'il al-Kharrāz"">
+<meta name=""citation_authors"" content=""al-Kharrāz, Aḥmad b. ʿĪsā"">
+<meta name=""citation_editors"" content=""Samarrā'ī, Qāsim"">
+<meta name=""citation_publisher"" content=""Maṭbaʿat al-Majmaʿ al-ʿIlmī al-Iʿrāqī, Baghdad"">
+<meta name=""citation_date"" content=""1967"">
+<meta name=""citation_language"" content=""Arabic"">
+<meta name=""citation_isbn"" content=""0"">"
+19,Kitāb al-Ṣafā',كتاب الصفاء,3,Sufism,A text,http://www.worldcat.org/oclc/23487100,"al-Kharrāz, Aḥmad b. ʿĪsā. <em>al-Imām al-Kharrāz Shaykh al-Fanā’ wa-l-Baqā’</em>. Edited by Mīʿād Sharaf al-Dīn Kīlānī. Beirut: Kitāb Nāshirūn, 2012",0,7,143-149,1426,OCR,kitāb,3,A. Musto,"<meta name=""citation_title"" content=""al-Imām al-Kharrāz Shaykh al-Fanā' wa-l-Baqā'"">
+<meta name=""citation_authors"" content=""al-Kharrāz, Aḥmad b. ʿĪsā"">
+<meta name=""citation_editors"" content=""Kīlānī, Mīʿād Sharaf al-Dīn"">
+<meta name=""citation_publisher"" content=""Kitāb Nāshirūn, Beirut"">
+<meta name=""citation_date"" content=""2012"">
+<meta name=""citation_language"" content=""Arabic"">
+<meta name=""citation_isbn"" content=""0"">"
+20,Kitāb al-Kashf wa-l-Bayān,كتاب الكشف والبيان,3,Sufism,A text,https://www.worldcat.org/title/828182369,"al-Kharrāz, Aḥmad b. ʿĪsā. <em>al-Imām al-Kharrāz Shaykh al-Fanā’ wa-l-Baqā’</em>. Edited by Mīʿād Sharaf al-Dīn Kīlānī. Beirut: Kitāb Nāshirūn, 2012",0,8,150-157,1714,OCR,kitāb,3,A. Musto,"<meta name=""citation_title"" content=""al-Imām al-Kharrāz Shaykh al-Fanā' wa-l-Baqā'"">
+<meta name=""citation_authors"" content=""al-Kharrāz, Aḥmad b. ʿĪsā"">
+<meta name=""citation_editors"" content=""Kīlānī, Mīʿād Sharaf al-Dīn"">
+<meta name=""citation_publisher"" content=""Kitāb Nāshirūn, Beirut"">
+<meta name=""citation_date"" content=""2012"">
+<meta name=""citation_language"" content=""Arabic"">
+<meta name=""citation_isbn"" content=""0"">"
+21,Kitāb al-Farāgh,كتاب الفراغ,3,Sufism,A text,https://www.worldcat.org/title/828182369,"al-Kharrāz, Aḥmad b. ʿĪsā. <em>al-Imām al-Kharrāz Shaykh al-Fanā’ wa-l-Baqā’</em>. Edited by Mīʿād Sharaf al-Dīn Kīlānī. Beirut: Kitāb Nāshirūn, 2012",0,15,161-175,2173,OCR,kitāb,3,A. Musto,"<meta name=""citation_title"" content=""al-Imām al-Kharrāz Shaykh al-Fanā' wa-l-Baqā'"">
+<meta name=""citation_authors"" content=""al-Kharrāz, Aḥmad b. ʿĪsā"">
+<meta name=""citation_editors"" content=""Kīlānī, Mīʿād Sharaf al-Dīn"">
+<meta name=""citation_publisher"" content=""Kitāb Nāshirūn, Beirut"">
+<meta name=""citation_date"" content=""2012"">
+<meta name=""citation_language"" content=""Arabic"">
+<meta name=""citation_isbn"" content=""0"">"
+22,Kitāb al-Ḥaqā'iq,كتاب الحقائق,3,Sufism,A text,https://www.worldcat.org/title/828182369,"al-Kharrāz, Aḥmad b. ʿĪsā. <em>al-Imām al-Kharrāz Shaykh al-Fanā’ wa-l-Baqā’</em>. Edited by Mīʿād Sharaf al-Dīn Kīlānī. Beirut: Kitāb Nāshirūn, 2012",0,15,179-193,2164,OCR,kitāb,3,A. Musto,"<meta name=""citation_title"" content=""al-Imām al-Kharrāz Shaykh al-Fanā' wa-l-Baqā'"">
+<meta name=""citation_authors"" content=""al-Kharrāz, Aḥmad b. ʿĪsā"">
+<meta name=""citation_editors"" content=""Kīlānī, Mīʿād Sharaf al-Dīn"">
+<meta name=""citation_publisher"" content=""Kitāb Nāshirūn, Beirut"">
+<meta name=""citation_date"" content=""2012"">
+<meta name=""citation_language"" content=""Arabic"">
+<meta name=""citation_isbn"" content=""0"">"
+23,Kitāb Ādāb al-Ṣalāt,كتاب آداب الصلاة,3,Sufism,A text,https://www.worldcat.org/title/828182369,"al-Kharrāz, Aḥmad b. ʿĪsā. <em>al-Imām al-Kharrāz Shaykh al-Fanā’ wa-l-Baqā’</em>. Edited by Mīʿād Sharaf al-Dīn Kīlānī. Beirut: Kitāb Nāshirūn, 2012",0,3,133-135,271,OCR,kitāb,3,A. Musto,"<meta name=""citation_title"" content=""al-Imām al-Kharrāz Shaykh al-Fanā' wa-l-Baqā'"">
+<meta name=""citation_authors"" content=""al-Kharrāz, Aḥmad b. ʿĪsā"">
+<meta name=""citation_editors"" content=""Kīlānī, Mīʿād Sharaf al-Dīn"">
+<meta name=""citation_publisher"" content=""Kitāb Nāshirūn, Beirut"">
+<meta name=""citation_date"" content=""2012"">
+<meta name=""citation_language"" content=""Arabic"">
+<meta name=""citation_isbn"" content=""0"">"
+24,Kitāb Darājāt al-Murīdīn,كتاب دراجات المريدين,3,Sufism,A text,https://www.worldcat.org/title/828182369,"al-Kharrāz, Aḥmad b. ʿĪsā. <em>al-Imām al-Kharrāz Shaykh al-Fanā’ wa-l-Baqā’</em>. Edited by Mīʿād Sharaf al-Dīn Kīlānī. Beirut: Kitāb Nāshirūn, 2012",0,4,136-139,435,OCR,kitāb,3,A. Musto,"<meta name=""citation_title"" content=""al-Imām al-Kharrāz Shaykh al-Fanā' wa-l-Baqā'"">
+<meta name=""citation_authors"" content=""al-Kharrāz, Aḥmad b. ʿĪsā"">
+<meta name=""citation_editors"" content=""Kīlānī, Mīʿād Sharaf al-Dīn"">
+<meta name=""citation_publisher"" content=""Kitāb Nāshirūn, Beirut"">
+<meta name=""citation_date"" content=""2012"">
+<meta name=""citation_language"" content=""Arabic"">
+<meta name=""citation_isbn"" content=""0"">"
+25,Kitāb al-Ṣidq,كتاب الصدق,3,Sufism,A text,http://www.worldcat.org/oclc/779158823,"al-Kharrāz, Aḥmad b. ʿĪsā. <em>al-Ṭarīq ilā Allāh aw Kitāb al-Ṣidq</em>. Edited by ʿAbd al-Ḥalīm Maḥmūd. Cairo: Dār al-Maʿārif, 1979",0,93,May-97,14108,OCR,kitāb,3,A. Musto,"<meta name=""citation_title"" content=""al-Ṭarīq ilā Allāh aw Kitāb al-Ṣidq"">
+<meta name=""citation_authors"" content=""al-Kharrāz, Aḥmad b. ʿĪsā"">
+<meta name=""citation_editors"" content=""Maḥmūd, ʿAbd al-Ḥalīm"">
+<meta name=""citation_publisher"" content=""Dār al-Maʿārif, Cairo"">
+<meta name=""citation_date"" content=""1979"">
+<meta name=""citation_language"" content=""Arabic"">
+<meta name=""citation_isbn"" content=""0"">"
+26,Maqāmāt al-Qulūb,مقامات القلوب,4,Sufism,A text,http://www.worldcat.org/oclc/66882781,"al-Nūrī, Abū al-Ḥusayn. <em>Maqāmāt al-Qulūb.</em> edited by Qāsim Samarrā’ī. Bagdad: Maṭbaʿat al-Maʿārif, 1969",0,10,21-Dec,1929,OCR,kitāb,3,A. Musto,"<meta name=""citation_title"" content=""Maqāmāt al-Qulūb"">
+<meta name=""citation_authors"" content=""al-Nūrī, Abū al-Ḥusayn"">
+<meta name=""citation_editors"" content=""Samarrā'ī, Qāsim"">
+<meta name=""citation_publisher"" content=""Maṭbaʿat al-Maʿārif, Bagdad"">
+<meta name=""citation_date"" content=""1969"">
+<meta name=""citation_language"" content=""Arabic"">
+<meta name=""citation_isbn"" content=""0"">"
+27,Kitāb al-Masā'il,كتاب المسائل,5,Sufism,A text,0,"al-Iṣfahānī, Abū Manṣūr. “Kitāb Al-Minhāj Wa-l-Masāʾil Wa-l-Waṣiyya, with Dhikr Maʿānī l-Taṣawwuf.” Edited by Nasrollah Pourjavady. <em>Maʿārif</em> 6/3 (1990)",0,4,31-34,690,OCR,kitāb,3,A. Musto,"<meta name=""citation_title"" content=""Kitāb al-Minhāj wa-l-masāʾil wa-l-waṣiyya, with Dhikr maʿānī l-taṣawwuf"">
+<meta name=""citation_authors"" content=""al-Iṣfahānī, Abū Manṣūr"">
+<meta name=""citation_editors"" content=""Pourjavady, Nasrollah"">
+<meta name=""citation_journal_title"" content=""Maʿārif"">
+<meta name=""citation_volume"" content=""6/3"">
+<meta name=""citation_date"" content=""1990"">
+<meta name=""citation_firstpage"" content=""3"">
+<meta name=""citation_lastpage"" content=""51"">"
+28,Kitāb al-Waṣiyya,الوصية,5,Sufism,A text,0,"al-Iṣfahānī, Abū Manṣūr. “Kitāb Al-Minhāj Wa-l-Masāʾil Wa-l-Waṣiyya, with Dhikr Maʿānī l-Taṣawwuf.” Edited by Nasrollah Pourjavady. <em>Maʿārif</em> 6/3 (1990)",0,7,34-40,1474,OCR,kitāb,3,A. Musto,"<meta name=""citation_title"" content=""Kitāb al-Minhāj wa-l-masāʾil wa-l-waṣiyya, with Dhikr maʿānī l-taṣawwuf"">
+<meta name=""citation_authors"" content=""al-Iṣfahānī, Abū Manṣūr"">
+<meta name=""citation_editors"" content=""Pourjavady, Nasrollah"">
+<meta name=""citation_journal_title"" content=""Maʿārif"">
+<meta name=""citation_volume"" content=""6/3"">
+<meta name=""citation_date"" content=""1990"">
+<meta name=""citation_firstpage"" content=""3"">
+<meta name=""citation_lastpage"" content=""51"">"
+29,Kitāb al-Minhāj,كتاب المنهاج,5,Sufism,A text,0,"al-Iṣfahānī, Abū Manṣūr. “Kitāb Al-Minhāj Wa-l-Masāʾil Wa-l-Waṣiyya, with Dhikr Maʿānī l-Taṣawwuf.” Edited by Nasrollah Pourjavady. <em>Maʿārif</em> 6/3 (1990)",0,4,40-43,752,OCR,kitāb,3,A. Musto,"<meta name=""citation_title"" content=""Kitāb al-Minhāj wa-l-masāʾil wa-l-waṣiyya, with Dhikr maʿānī l-taṣawwuf"">
+<meta name=""citation_authors"" content=""al-Iṣfahānī, Abū Manṣūr"">
+<meta name=""citation_editors"" content=""Pourjavady, Nasrollah"">
+<meta name=""citation_journal_title"" content=""Maʿārif"">
+<meta name=""citation_volume"" content=""6/3"">
+<meta name=""citation_date"" content=""1990"">
+<meta name=""citation_firstpage"" content=""3"">
+<meta name=""citation_lastpage"" content=""51"">"
+30,al-ʿĀlim wa-l-mutaʿallim,العالم والمتعلم,6,Theology,A text,http://www.worldcat.org/oclc/318058865,"Abū Ḥanīfa. al-ʿĀlim wa-l-mutaʿallim wa-yalī-hi risālat abī ḥanīfa ilā ʿUthmān al-Battī. Edited by Muḥammad Zāhid al-Kawtharī. Al-Qahira: Matba`at al-Anwar, 1989",https://archive.org/details/PDF_Abu_Hanifa,25,Aug-32,7861,OCR,kitāb,3,A. Musto,"<meta name=""citation_title"" content=""al-ʿĀlim wa-l-mutaʿallim wa-yalī-hi risālat abī ḥanīfa ilā ʿUthmān al-Battī"">
+<meta name=""citation_authors"" content=""Abū Ḥanīfa"">
+<meta name=""citation_editors"" content=""al-Kawtharī, Muḥammad Zāhid"">
+<meta name=""citation_publisher"" content=""Matba`at al-Anwar, Al-Qahira"">
+<meta name=""citation_date"" content=""1989"">
+<meta name=""citation_language"" content=""Arabic"">
+<meta name=""citation_isbn"" content=""0"">"
+31,al-Risāla ilā ʿuthmān al-battī,الرسالة إلى عثمان البتي,7,Theology,A text,http://www.worldcat.org/oclc/318058865,"Abū Ḥanīfa. al-ʿĀlim wa-l-mutaʿallim wa-yalī-hi risālat abī ḥanīfa ilā ʿUthmān al-Battī. Edited by Muḥammad Zāhid al-Kawtharī. Al-Qahira: Matba`at al-Anwar, 1989",https://archive.org/details/PDF_Abu_Hanifa,5,34-38,1408,OCR,risāla,3,A. Musto,"<meta name=""citation_title"" content=""al-ʿĀlim wa-l-mutaʿallim wa-yalī-hi risālat abī ḥanīfa ilā ʿUthmān al-Battī"">
+<meta name=""citation_authors"" content=""Abū Ḥanīfa"">
+<meta name=""citation_editors"" content=""al-Kawtharī, Muḥammad Zāhid"">
+<meta name=""citation_publisher"" content=""Matba`at al-Anwar, Al-Qahira"">
+<meta name=""citation_date"" content=""1989"">
+<meta name=""citation_language"" content=""Arabic"">
+<meta name=""citation_isbn"" content=""0"">"
+32,Maqāla fīmā baʿda al-ṭabīʿa,مقالة فيما بعد الطبيعة,10,Philosophy,A text,http://www.worldcat.org/oclc/912379005,"al-Rāzī, Abū Bakr. <em>Rasā’il Falsafiyya</em>. Edited by Paul Kraus. Cairo: Jāmiʿat Fū’ād al-Awwal: Kulliyat al-Adab, 1939",https://ia803101.us.archive.org/11/items/lis_qd109/lis_qd10902.pdf,19,116-134,4379,OITI,maqāla,3,A. Musto,"<meta name=""citation_title"" content=""Rasā'il Falsafiyya"">
+<meta name=""citation_authors"" content=""al-Rāzī, Abū Bakr"">
+<meta name=""citation_editors"" content=""Kraus, Paul"">
+<meta name=""citation_publisher"" content=""Jāmiʿat Fū'ād al-Awwal: Kulliyat al-Adab, Cairo"">
+<meta name=""citation_date"" content=""1939"">
+<meta name=""citation_language"" content=""Arabic"">
+<meta name=""citation_isbn"" content=""0"">"
+33,Fī al-ʿAql,في العقل,9,Philosophy,A text,http://www.worldcat.org/oclc/882764197,"al-Kindī. <em>Rasā’il al-Kindī al-falsafiyya</em>. Edited by Muḥammad ʿAbd al-Hādī Abū Riḍā. Egypt: Dār al-Fikr al-ʿArabī, 1950",https://shiabooks.net/library.php?id=13023,6,353-358,660,OITI,risāla,3,A. Musto,"<meta name=""citation_title"" content=""Rasā'il al-Kindī al-falsafiyya"">
+<meta name=""citation_authors"" content=""al-Kindī"">
+<meta name=""citation_editors"" content=""Abū Riḍā, Muḥammad ʿAbd al-Hādī"">
+<meta name=""citation_publisher"" content=""Dār al-Fikr al-ʿArabī, Egypt"">
+<meta name=""citation_date"" content=""1950"">
+<meta name=""citation_language"" content=""Arabic"">
+<meta name=""citation_isbn"" content=""0"">"
+34,Kitāb al-Sīra al-falsafiyya,كتاب السيرة الفلسفية,10,Philosophy,A text,http://www.worldcat.org/oclc/912379005,"al-Rāzī, Abū Bakr. <em>Rasā’il Falsafiyya</em>. Edited by Paul Kraus. Cairo: Jāmiʿat Fū’ād al-Awwal: Kulliyat al-Adab, 1939",https://ia803101.us.archive.org/11/items/lis_qd109/lis_qd10902.pdf,15,97-111,2756,OITI,kitāb,3,A. Musto,"<meta name=""citation_title"" content=""Rasā'il Falsafiyya"">
+<meta name=""citation_authors"" content=""al-Rāzī, Abū Bakr"">
+<meta name=""citation_editors"" content=""Kraus, Paul"">
+<meta name=""citation_publisher"" content=""Jāmiʿat Fū'ād al-Awwal: Kulliyat al-Adab, Cairo"">
+<meta name=""citation_date"" content=""1939"">
+<meta name=""citation_language"" content=""Arabic"">
+<meta name=""citation_isbn"" content=""0"">"
+35,Bustān al-maʿrifa,بستان المعرفة,13,Sufism,A text,http://www.worldcat.org/oclc/50394851,"al-Ḥallāj, Ḥusayn b. Manṣūr. “Bustān al-maʿrifah.” In <em>al-Ḥallāj: al-aʻmāl al-kāmilah</em>, edited by Qāsim Muḥammad ʿAbbās. Beirut: Riyāḍ al-Rayyis, 2002",https://archive.org/details/sufi-works_201905,5,213-217,694,OCR,kitāb,3,A. Musto,"<meta name=""citation_isbn"" content=""0"">
+<meta name=""citation_publisher"" content=""Riyāḍ al-Rayyis, Beirut"">
+<meta name=""citation_author"" content=""al-Ḥallāj, Ḥusayn b. Manṣūr"">
+<meta name=""citation_language"" content=""Arabic"">
+<meta name=""citation_editors"" content=""ʿAbbās, Qāsim Muḥammad"">
+<meta name=""citation_date"" content=""2002"">
+<meta name=""citation_title"" content=""al-Ḥallāj: al-aʻmāl al-kāmilah"">"
+36,Mā al-taṣawwuf wa-man al-ṣūfī,ما التصوف ومن الصوفي,11,Sufism,A text,http://www.worldcat.org/oclc/551698977,"al-Sulamī, Abū ʿAbd al-Raḥmān. “Mā al-Taṣawwuf wa-man al-ṣūfī.” In <em>Majmūʿah-i Āsār-i Abū ʿAbd al-Raḥmān Sulamī vol. 3</em>, eds. Nasrollah Pourjavady and Muḥammad Sūrī. Tehran: Markaz-i Nashr-i Dānishgāhī, 1990-2010",https://archive.org/embed/majmua_asr_abu_abd_ar-rahman_Sulamī,4,327-330,756,OCR,risāla,3,A. Musto,"<meta name=""citation_inbook_title"" content=""Majmūʿah-i Āsār-i Abū ʿAbd al-Raḥmān Sulamī"">
+<meta name=""citation_title"" content=""Mā al-Taṣawwuf wa-man al-ṣūfī"">
+<meta name=""citation_authors"" content=""al-Sulamī, Abū ʿAbd al-Raḥmān Muḥammad b. al-Ḥusayn"">
+<meta name=""citation_editors"" content=""Pourjavady, Nasrollah; Muḥammad Sūrī"">
+<meta name=""citation_isbn"" content=""0"">
+<meta name=""citation_volume"" content=""3"">
+<meta name=""citation_publisher"" content=""Markaz-i Nashr-i Dānishgāhī, Tehran"">
+<meta name=""citation_date"" content=""1990"">
+<meta name=""citation_firstpage"" content=""327"">
+<meta name=""citation_lastpage"" content=""330"">
+<meta name=""citation_language"" content=""Arabic"">"
+37,Ādāb al-nufūs,آداب النفوس,1,Sufism,A text,http://www.worldcat.org/oclc/1243825398,"al-Muḥāsibī, al-Ḥārith b. Asad. <em>Ādāb al-nufūs</em>. Edited by ʿAbd al-Qādir Aḥmad ʿAṭā. Beirut: Dār al-Jīl, 1984",0,164,35-198,24715,OITI,kitāb,3,A. Musto,"<meta name=""citation_title"" content=""Ādāb al-nufūs"">
+<meta name=""citation_authors"" content=""al-Muḥāsibī"">
+<meta name=""citation_editors"" content=""ʿAṭā, ʿAbd al-Qādir Aḥmad"">
+<meta name=""citation_publisher"" content=""Dār al-Jīl, Beirut"">
+<meta name=""citation_date"" content=""1984"">
+<meta name=""citation_language"" content=""Arabic"">
+<meta name=""citation_isbn"" content=""0"">"
+38,Risālat al-Mustarshidīn,رسالة المسترشدين,1,Sufism,A text,http://www.worldcat.org/oclc/643652671,"al-Muḥāsibī, al-Ḥārith b. Asad. <em>Risālat al-Mustarshidīn</em>. Edited by ʿAbd al-Fattāḥ Abū Ghudda. Aleppo: Maktab al-Maṭbūʿāt al-Islāmiyya, 1982",https://archive.org/details/risalatmostarchidine,149,35-183,5309,OITI,risāla,3,A. Musto,"<meta name=""citation_title"" content=""Risālat al-Mustarshidīn"">
+<meta name=""citation_authors"" content=""al-Muḥāsibī"">
+<meta name=""citation_editors"" content=""Abū Ghudda, ʿAbd al-Fattāḥ"">
+<meta name=""citation_publisher"" content=""Maktab al-Maṭbūʿāt al-Islāmiyya, Aleppo"">
+<meta name=""citation_date"" content=""1982"">
+<meta name=""citation_language"" content=""Arabic"">
+<meta name=""citation_isbn"" content=""0"">"
+39,Kitāb al-Taʿarruf li-Madhhab ahl al-taṣawwuf,كتاب التعرف لمذهب اهل التصوف,19,Sufism,A text,http://www.worldcat.org/oclc/957338330,"al-Kalābādhī, Muḥammad b. Ibrāhīm. <em>al-Taʿarruf li-madhhab ahl al-taṣawwuf</em>. Edited by Aḥmad Shams al-Dīn. Beirut: Dār al-Kutub al-ʿIlmiyya, 2001",0,143,19-161,28238,OITI,kitāb,3,A. Musto,"<meta name=""citation_title"" content=""al-Taʿarruf li-madhhab ahl al-taṣawwuf"">
+<meta name=""citation_authors"" content=""al-Kalābādhī, Muḥammad b. Ibrāhīm"">
+<meta name=""citation_editors"" content=""Shams al-Dīn, Aḥmad"">
+<meta name=""citation_publisher"" content=""Dār al-Kutub al-ʿIlmiyya, Beirut"">
+<meta name=""citation_date"" content=""2001"">
+<meta name=""citation_language"" content=""Arabic"">
+<meta name=""citation_isbn"" content=""0"">"
+40,Ādāb al-ṣuḥba,آداب الصحبة,11,Sufism,A text,http://www.worldcat.org/oclc/30020458,"al-Sulamī, Abū ʿAbd al-Raḥmān. <em>Ādāb al-Ṣuḥba</em>. Edited by Majdī Fatḥī al-Sayyid. Ṭanṭā: Dār al-Ṣaḥāba li-l-Turāth, 1990",0,90,37-126,11082,OITI,kitāb,3,A. Musto,"<meta name=""citation_title"" content=""Ādāb al-Ṣuḥba"">
+<meta name=""citation_authors"" content=""al-Sulamī, Abū ʿAbd al-Raḥmān Muḥammad b. al-Ḥusayn"">
+<meta name=""citation_editors"" content=""al-Sayyid, Majdī Fatḥī"">
+<meta name=""citation_publisher"" content=""Dār al-Ṣaḥāba li-l-Turāth, Ṭanṭā"">
+<meta name=""citation_date"" content=""1990"">
+<meta name=""citation_language"" content=""Arabic"">
+<meta name=""citation_isbn"" content=""0"">"
+41,Kitāb Ṭabaqāt al-Ṣūfiyya,كتاب طبقات الصوفية,11,Sufism,A text,http://www.worldcat.org/oclc/164560561,"al-Sulamī, Abū ʿAbd al-Raḥmān. <em>Ṭabaqāt al-Ṣūfiyya: wa-yalīhi dhikr al-niswat al-mutaʿabbidāt al-ṣūfiyyāt</em>. Edited by ʿAbd al-Qādir Aḥmad ʿAṭā. Beirut: Dār al- Kutub al-ʿIlmiyya, 1998",0,406,20-425,71070,OITI,ṭabaqāt,3,A. Musto,"<meta name=""citation_title"" content=""Ṭabaqāt al-Ṣūfiyya: wa-yalīhi dhikr al-niswa al-mutaʿabbidāt al-ṣūfiyyāt"">
+<meta name=""citation_authors"" content=""al-Sulamī"">
+<meta name=""citation_editors"" content=""ʿAṭā, ʿAbd al-Qādir Aḥmad"">
+<meta name=""citation_publisher"" content=""Dār al- Kutub al-ʿIlmiyya, Beirut"">
+<meta name=""citation_date"" content=""1998"">
+<meta name=""citation_language"" content=""Arabic"">
+<meta name=""citation_isbn"" content=""0"">"
+42,kitāb al-Arbaʿīn,كتاب الأربعين,11,Sufism,A text,http://www.worldcat.org/oclc/255621401,"al-Sulamī. Kitāb al-Arbaʿīn fī al-Taṣawwuf. Hyderabad: Majlis Dāʾirat al-Maʿārif al-ʿUthmānīyah, 1369/1950",0,16,16-Jan,3609,OITI,arbaʿīn,3,A. Musto,"<meta name=""citation_title"" content=""Kitāb al-Arbaʿīn fī al-taṣawwuf"">
+<meta name=""citation_authors"" content=""al-Sulamī, Muḥammad b. al-Ḥusayn"">
+<meta name=""citation_publisher"" content=""Dāʼirat al-Maʿārif al-ʿUthmāniyya, Hyderabad"">
+<meta name=""citation_date"" content=""1981"">
+<meta name=""citation_language"" content=""Arabic"">
+<meta name=""citation_isbn"" content=""0"">"
+43,kitāb al-Arbaʿīn,كتاب الأربعين,15,Sufism,A text,http://www.worldcat.org/oclc/608516511,"Abū Nuʿaym al-Iṣfahānī.<em> Kitāb al-Arbaʿīn ʿalā Madhhab al-Mutaḥaqqiqīn min al-Ṣūfīyah, wa-yalīhi al-Juzʾ al-Khāmis min Kitāb al-Arbaʿīn fī Faḍl al-Duʿāʾ wa-l-Dāʿīn</em>. Edited by Badr b. ʿAbd Allāh b. Badr. Beirut: Dār Ibn Ḥazm, 1414/1993",https://archive.org/details/0396-/mode/2up,94,19-112,5252,OITI,kitāb,3,A. Musto,"<meta name=""citation_title"" content=""Kitāb al-Arbaʿīn ʿalā madhhab al-mutaḥaqqiqīn min al-ṣūfiyya"">
+<meta name=""citation_authors"" content=""Abū Nuʿaym"">
+<meta name=""citation_editors"" content=""Badr b. ʻAbd Allāh al-Badr"">
+<meta name=""citation_publisher"" content=""Dār Ibn Ḥazm, Beirut"">
+<meta name=""citation_date"" content=""1993"">
+<meta name=""citation_language"" content=""Arabic"">
+<meta name=""citation_isbn"" content=""0"">"
+44,Kitāb al-Zuhd wa-ṣifat al-zāhidīn,كتاب الزهد وصفة الزاهدين,20,Sufism,A text,https://worldcat.org/en/title/957040526,"Ibn al-Aʿrābī. <em>al-Zuhd wa-Ṣifat al-Zāhidīn</em>. Edited by Majdī Fatḥi al-Sayyid Ibrāhīm. Ṭanṭā: Dār al-Ṣaḥābah li-l-Turāth, 1408/1988",0,57,17-73,8976,OITI,kitāb,3,A. Musto,"<meta name=""citation_title"" content=""Maʿnā al-zuhd wa-l-maqālāt wa-ṣifāt al-zāhidīn"">
+<meta name=""citation_authors"" content=""Ibn al-Aʿrābī, Abū Saʿīd Aḥmad"">
+<meta name=""citation_editors"" content=""ʿAlī, Saʿd ʿAbd al-Ghaffār"">
+<meta name=""citation_publisher"" content=""Dār al-Kutub al-ʿIlmiyya, Beirut"">
+<meta name=""citation_date"" content=""2003"">
+<meta name=""citation_language"" content=""Arabic"">
+<meta name=""citation_isbn"" content=""0"">"
+45,Kitāb al-Samāʿ,كتاب السماع,11,Sufism,A text,http://ensani.ir/file/download/article/20101118165443-110.pdf,"Naṣr Allāh Pūrjavādī, ""Dū Athr-i Kuhan dar Samāʿ az Abū ʿAbd al-Raḥmān al-Sulamī va Abū Manṣūr Iṣfahānī "" Maʿārif-i Islāmī 20 (1367^/1989): pp. 291-366, at ",http://ensani.ir/file/download/article/20101118165443-110.pdf,17,344-355,2801,OCR,kitāb,3,A. Musto,"<meta name=""citation_title"" content=""Dū asar-i kuhn dar samāʿ az Abū ʿAbd al-Raḥmān Sulamī va-Abū Manṣūr Iṣfahānī"">
+<meta name=""citation_authors"" content=""al-Iṣfahānī, Abū Manṣūr"">
+<meta name=""citation_editors"" content=""Pourjavady, Nasrollah"">
+<meta name=""citation_journal_title"" content=""Maʿārif"">
+<meta name=""citation_issue"" content=""5"">
+<meta name=""citation_volume"" content=""15"">
+<meta name=""citation_date"" content=""1367"">
+<meta name=""citation_firstpage"" content=""3"">
+<meta name=""citation_lastpage"" content=""78"">
+<meta name=""citation_language"" content=""Persian"">"
+46,Faḍl al-taṣawwuf,فضل التصوف,14,Sufism,A text,0,"Fāṭimeh ʿAlāqeh and Kāẓim Bargnīsī, ""Risālah-yi 'Faḍl al-taṣawwuf ʿalā al-madhāhib': taʾlīf Abū ʿAbd Allāh Muḥammad b. Khafīf,"" Maʿārif-i Islāmī 43-44 (1377^/1998)",0,27,54-80,8167,OCR,kitāb,3,A. Musto,"<meta name=""citation_title"" content=""Risālat faḍl al-taṣawwuf ʿalā al-madhāhib"">
+<meta name=""citation_authors"" content=""Ibn Khafīf"">
+<meta name=""citation_editors"" content=""ʿAlāqa, Fāṭima; Bargnaysī, Kāẓim"">
+<meta name=""citation_journal_title"" content=""Maʿārif"">
+<meta name=""citation_issue"" content=""15"">
+<meta name=""citation_volume"" content=""43-44"">
+<meta name=""citation_date"" content=""1377"">
+<meta name=""citation_firstpage"" content=""51"">
+<meta name=""citation_lastpage"" content=""80"">
+<meta name=""citation_language"" content=""Persian"">"
+47,Maqāla fī al-ʿilm wa-l-muʿjiz,مقالة في العلم والمعجز,21,naṣrāniyya,A text,https://www.worldcat.org/title/57220135,"Abū al-Faraj ʿAbd Allāh b. al-Ṭayyib. ""Maqāla fī al-ʿilm wa-l-muʿjiz.” In <em>Vingt traités théologiques d’auteurs arabes chrétiens, IXe-XIIIe siècle</em>, edited by Louis Cheikho, Louis Malouf, and Constantin Bacha. Beirut: Imprimerie Catholique, 1920",https://archive.org/details/VingtTraitesPhilosophiquesEtApologetiquesDauteursArabesChretiens,2,179-180,225,OCR,maqāla,3,G. DiRusso,"<meta name=""citation_title"" content=""Maqāla fī al-ʿilm wa-l-muʿjiz"">
+<meta name=""citation_authors"" content=""Abū al-Faraj"">
+<meta name=""citation_editors"" content=""Cheikho, Louis; Malouf, Louis; Bacha, Constantin"">
+<meta name=""citation_inbook_title"" content=""Vingt traités théologiques d'auteurs arabes chrétiens, IXe-XIIIe siècle"">
+<meta name=""citation_publisher"" content=""Imprimerie Catholique, Beirut"">
+<meta name=""citation_date"" content=""1920"">
+<meta name=""citation_language"" content=""Arabic"">"
+48,Maqāla fī ikhtilāf lafẓ al-anājīl wa-maʿānī-hā,مقالة في اختلاف لفظ الأناجيل ومعانيها,22,naṣrāniyya,A text,https://www.worldcat.org/title/57220135,"Abū Zakariyā Yaḥyā b. ʿAdī. ""Maqāla fī ikhtilāf lafẓ al-anājīl wa-maʿānī-hā.” In <em>Vingt traités théologiques d’auteurs arabes chrétiens, IXe-XIIIe siècle</em>, edited by Louis Cheikho, Louis Malouf, and Constantin Bacha. Beirut: Imprimerie Catholique, 1920",https://archive.org/details/VingtTraitesPhilosophiquesEtApologetiquesDauteursArabesChretiens,2,171-172,249,OCR,maqāla,3,G. DiRusso,"<meta name=""citation_title"" content=""Maqāla fī ikhtilāf lafẓ al-anājīl wa-maʿānī-hā"">
+<meta name=""citation_authors"" content=""Yaḥyā b. ʿAdī"">
+<meta name=""citation_editors"" content=""Cheikho, Louis; Malouf, Louis; Bacha, Constantin"">
+<meta name=""citation_inbook_title"" content=""Vingt traités théologiques d'auteurs arabes chrétiens, IXe-XIIIe siècle"">
+<meta name=""citation_publisher"" content=""Imprimerie Catholique, Beirut"">
+<meta name=""citation_date"" content=""1920"">
+<meta name=""citation_language"" content=""Arabic"">"
+49,Risālat Rawḍat al-murīdīn,رسالة روضة المريدين,11,Sufism,A text,http://www.worldcat.org/oclc/551698977,"al-Sulamī, Abū ʿAbd al-Raḥmān. “Risālat Rawḍ al-Murīdīn.” In <em>Majmūʿah-i Āsār-i Abū ʿAbd al-Raḥmān Sulamī vol. 3</em>, eds. Nasrollah Pourjavady and Muḥammad Sūrī. Tehran: Markaz-i Nashr-i Dānishgāhī, 1990-2010",https://archive.org/embed/majmua_asr_abu_abd_ar-rahman_Sulamī,9,373-381,1478,OCR,risāla,3,A. Musto,"<meta name=""citation_title"" content=""Risālat Rawḍat al-murīdīn"">
+<meta name=""citation_authors"" content=""al-Sulamī, Abū ʿAbd al-Raḥmān Muḥammad b. al-Ḥusayn"">
+<meta name=""citation_editors"" content=""Pourjavady, Nasrollah; Muḥammad Sūrī"">
+<meta name=""citation_inbook_title"" content=""Majmūʿah-i Āsār-i Abū ʿAbd al-Raḥmān Sulamī"">
+<meta name=""citation_volume"" content=""3"">
+<meta name=""citation_publisher"" content=""Markaz-i Nashr-i Dānishgāhī, Tehran"">
+<meta name=""citation_date"" content=""1990"">
+<meta name=""citation_firstpage"" content=""373"">
+<meta name=""citation_lastpage"" content=""381"">
+<meta name=""citation_language"" content=""Arabic"">
+<meta name=""citation_isbn"" content=""0"">"
+50,Maqāla fī waḥdāniyyat al-bāri' taʿālā wa-tathlīth aqānīmi-hi,مقالة في وحدانية البارئ وتثليث أقانيمه,23,naṣrāniyya,A text,https://worldcat.org/en/title/63942028,"Simʿān b. Kalīl. ""Maqāla fī waḥdāniyyat al-bāri' taʿālā wa-tathlīth aqānīmi-hi.” In <em>Vingt traités théologiques d’auteurs arabes chrétiens, IXe-XIIIe siècle</em>, edited by Louis Cheikho, Louis Malouf, and Constantin Bacha. Beirut: Imprimerie Catholique, 1920",https://archive.org/details/VingtTraitesPhilosophiquesEtApologetiquesDauteursArabesChretiens,9,103-111,1461,OCR,maqāla,3,G. DiRusso,"<meta name=""citation_title"" content=""Maqāla fī waḥdāniyyat al-bāri' taʿālā wa-tathlīth aqānīmi-hi"">
+<meta name=""citation_authors"" content=""Simʿān b. Kalīl"">
+<meta name=""citation_editors"" content=""Cheikho, Louis; Malouf, Louis; Bacha, Constantin"">
+<meta name=""citation_inbook_title"" content=""Vingt traités théologiques d'auteurs arabes chrétiens, IXe-XIIIe siècle"">
+<meta name=""citation_publisher"" content=""Imprimerie Catholique, Beirut"">
+<meta name=""citation_date"" content=""1920"">
+<meta name=""citation_language"" content=""Arabic"">
+<meta name=""citation_isbn"" content=""0"">"
+51,Maqāla fī al-barāhīn ʿalā ṣiḥḥat al-injīl,مقالة في البراهين على صحة الإنجيل,24,naṣrāniyya,A text,https://worldcat.org/en/title/63942028,"Īshūʿyāb b. Malkūn Muṭrān Nasībīn. ""Maqāla fī al-barāhīn ʿalā ṣiḥḥat al-injīl.” In <em>Vingt traités théologiques d’auteurs arabes chrétiens, IXe-XIIIe siècle</em>, edited by Louis Cheikho, Louis Malouf, and Constantin Bacha. Beirut: Imprimerie Catholique, 1920",https://archive.org/details/VingtTraitesPhilosophiquesEtApologetiquesDauteursArabesChretiens,4,152-155,580,OCR,maqāla,3,G. DiRusso,"<meta name=""citation_title"" content=""Maqāla fī al-barāhīn ʿalā ṣiḥḥat al-injīl"">
+<meta name=""citation_authors"" content=""Īshūʿyāb b. Malkūn"">
+<meta name=""citation_editors"" content=""Cheikho, Louis; Malouf, Louis; Bacha, Constantin"">
+<meta name=""citation_inbook_title"" content=""Vingt traités théologiques d'auteurs arabes chrétiens, IXe-XIIIe siècle"">
+<meta name=""citation_publisher"" content=""Imprimerie Catholique, Beirut"">
+<meta name=""citation_date"" content=""1920"">
+<meta name=""citation_language"" content=""Arabic"">
+<meta name=""citation_isbn"" content=""0"">"
+52,Fuṣūl fī naṣīḥat al-umarā' wa-l-wuzarā',فصول في نصيحة الأمراء والوزراء من جمعه رحمه الله,11,Sufism,A text,https://worldcat.org/en/title/670223261,"al-Sulamī, Abū ʿAbd al-Raḥmān. ""Fuṣūl fī Naṣīḥat al-Umarāʾ wa-l-Wuzarāʾ min jamʿihi raḥimahu Allāh.""  In Bilal Orfali and Gerhard Böwering (eds.). <em>Masāʾil wa-Taʾwīlāt Ṣūfīyah li-Abī ʿAbd al-Raḥmān al-Sulamī, Nuṣūs wa-Durūs Islāmīyah</em>. Beirut: Dar El-Machreq, 2012",0,6,49-54,1859,OCR,risāla,3,A. Musto,"<meta name=""citation_title"" content=""Fuṣūl fī Naṣīḥat al-Umarāʾ wa-l-Wuzarāʾ min jamʿihi raḥimahu Allāh"">
+<meta name=""citation_authors"" content=""al-Sulamī, Abū ʿAbd al-Raḥmān"">
+<meta name=""citation_editors"" content=""Orfali, Bilal; Böwering, Gerhard "">
+<meta name=""citation_inbook_title"" content=""Masāʾil wa-Taʾwīlāt Ṣūfīyah li-Abī ʿAbd al-Raḥmān al-Sulamī, Nuṣūs wa-Durūs Islāmīyah"">
+<meta name=""citation_publisher"" content=""Dar El-Machreq, Beirut"">
+<meta name=""citation_date"" content=""2012"">
+<meta name=""citation_firstpage"" content=""49"">
+<meta name=""citation_lastpage"" content=""54"">
+<meta name=""citation_language"" content=""Arabic"">
+<meta name=""citation_isbn"" content=""0"">"
+53,Kitāb Bayān al-sharīʿah wa-l-haqīqah,كتاب بيان الشريعة والحقيقة,11,Sufism,A text,http://www.worldcat.org/oclc/551698977,"al-Sulamī, Abū ʿAbd al-Raḥmān. “Kitāb Bayān al-Sharīʿah wa-l-Ḥaqīqah.” In <em>Majmūʿah-i Āsār-i Abū ʿAbd al-Raḥmān Sulamī v. 3</em>, eds. Nasrollah Pourjavady and Muḥammad Sūrī. Tehran: Markaz-i Nashr-i Dānishgāhī, 1990-2010",https://archive.org/embed/majmua_asr_abu_abd_ar-rahman_Sulamī,8,397-404,1282,OCR,kitāb,3,A. Musto,"<meta name=""citation_title"" content=""Kitāb Bayān al-Sharīʿah wa-l-Ḥaqīqah"">
+<meta name=""citation_authors"" content=""al-Sulamī, Abū ʿAbd al-Raḥmān"">
+<meta name=""citation_editors"" content=""Pourjavady, Nasrollah; Muḥammad Sūrī"">
+<meta name=""citation_inbook_title"" content=""Majmūʿah-i Āsār-i Abū ʿAbd al-Raḥmān Sulamī"">
+<meta name=""citation_volume"" content=""3"">
+<meta name=""citation_publisher"" content=""Markaz-i Nashr-i Dānishgāhī, Tehran"">
+<meta name=""citation_date"" content=""1990"">
+<meta name=""citation_firstpage"" content=""397"">
+<meta name=""citation_lastpage"" content=""404"">
+<meta name=""citation_language"" content=""Arabic"">
+<meta name=""citation_isbn"" content=""0"">"
+54,Dhikr Miḥan al-mashāyikh al-ṣūfiyya,ذكر محن المشايخ الصوفية,11,Sufism,A text,https://worldcat.org/en/title/670223261,"al-Sulamī, Abū ʿAbd al-Raḥmān. ""Dhikr Miḥan al-mashāyikh al-sūfīyah.""  In Bilal Orfali and Gerhard Böwering (eds.). <em>Masāʾil wa-Taʾwīlāt Ṣūfīyah li-Abī ʿAbd al-Raḥmān al-Sulamī, Nuṣūs wa-Durūs Islāmīyah</em>. Beirut: Dar El-Machreq, 2012",0,5,55-59,1375,OCR,kitāb,3,A. Musto,"<meta name=""citation_title"" content=""Dhikr Miḥan al-mashāyikh al-sūfīyah"">
+<meta name=""citation_authors"" content=""al-Sulamī, Abū ʿAbd al-Raḥmān"">
+<meta name=""citation_editors"" content=""Orfali, Bilal; Böwering, Gerhard "">
+<meta name=""citation_inbook_title"" content=""Masāʾil wa-Taʾwīlāt Ṣūfīyah li-Abī ʿAbd al-Raḥmān al-Sulamī, Nuṣūs wa-Durūs Islāmīyah"">
+<meta name=""citation_publisher"" content=""Dar El-Machreq, Beirut"">
+<meta name=""citation_date"" content=""2012"">
+<meta name=""citation_firstpage"" content=""55"">
+<meta name=""citation_lastpage"" content=""59"">
+<meta name=""citation_language"" content=""Arabic"">
+<meta name=""citation_isbn"" content=""0"">"
+55,Kitāb Nahj al-khāṣṣ,كتاب نهج الخاص,5,Sufism,A text,0,"Naṣr Allāh Pūrjavādī, ""Kitāb Nahj al-Khāṣṣ,"" Taḥqīqāt-i Islāmī 3/1-2 (1369^/1989-90)",0,18,132-149,2640,OCR,kitāb,3,A. Musto,"<meta name=""citation_title"" content=""Kitāb Nahj al-Khāṣṣ"">
+<meta name=""citation_authors"" content=""Abū Manṣūr al-Iṣfahānī"">
+<meta name=""citation_editors"" content=""Naṣr Allāh Pūrjavādī"">
+<meta name=""citation_journal_title"" content=""Taḥqīqāt-i Islāmī"">
+<meta name=""citation_issue"" content=""3"">
+<meta name=""citation_volume"" content=""1-2"">
+<meta name=""citation_date"" content=""1369/1989-90"">
+<meta name=""citation_firstpage"" content=""132"">
+<meta name=""citation_lastpage"" content=""149"">"
+56,Maqāla fī ḥudūth al-ʿālam wa-waḥdāniyyat al-khāliq wa-tathlīth aqānīmi-hi,مقالة في حدوث العالم ووحدانية الخالق وتثليث أقانيمه,25,naṣrāniyya,A text,https://www.worldcat.org/title/57220135,"Īliyyā Muṭrān Naṣībīn. ""Maqāla fī ḥudūth al-ʿālam wa-waḥdāniyyat al-khāliq wa-tathlīth aqānīmi-hi.” In  Vingt traités théologiques d’auteurs arabes chrétiens, IXe-XIIIe siècle, edited by Louis Cheikho, Louis Malouf, and Constantin Bacha. Beirut: Imprimerie Catholique, 1920",https://archive.org/details/VingtTraitesPhilosophiquesEtApologetiquesDauteursArabesChretiens,29,75-103,5220,OCR,maqāla,3,G. DiRusso,"<meta name=""citation_title"" content=""Maqāla fī ḥudūth al-ʿālam wa-waḥdāniyyat al-khāliq wa-tathlīth aqānīmi-hi"">
+<meta name=""citation_authors"" content=""Īliyyā Muṭrān Naṣībīn"">
+<meta name=""citation_editors"" content=""Cheikho, Louis; Malouf, Louis; Bacha, Constantin"">
+<meta name=""citation_inbook_title"" content=""Vingt traités théologiques d'auteurs arabes chrétiens, IXe-XIIIe siècle"">
+<meta name=""citation_publisher"" content=""Imprimerie Catholique, Beirut"">
+<meta name=""citation_date"" content=""1920"">
+<meta name=""citation_language"" content=""Arabic"">"
+57,Maqāla fī qawli-nā tajassud min al-rūh al-qudus wa-min maryam al-ʿudhrā',مقالة في قولنا تجسد من الروح القدس ومن مريام العذراء,22,naṣrāniyya,A text,https://www.worldcat.org/title/57220135,"Abū Zakariyā Yaḥyā b. ʿAdī. ""Maqāla fī qawli-nā tajassud min al-rūh al-quds wa-min maryam al-ʿudhrā'.” In Vingt traités théologiques d’auteurs arabes chrétiens, IXe-XIIIe siècle, edited by Louis Cheikho, Louis Malouf, and Constantin Bacha. Beirut: Imprimerie Catholique, 1920",https://archive.org/details/VingtTraitesPhilosophiquesEtApologetiquesDauteursArabesChretiens,4,172-175,545,OCR,maqāla,3,G. DiRusso,"<meta name=""citation_title"" content=""Maqāla fī qawli-nā tajassud min al-rūh al-quds wa-min maryam al-ʿudhrā'"">
+<meta name=""citation_authors"" content=""Yaḥyā b. ʿAdī"">
+<meta name=""citation_editors"" content=""Cheikho, Louis; Malouf, Louis; Bacha, Constantin"">
+<meta name=""citation_inbook_title"" content=""Vingt traités théologiques d'auteurs arabes chrétiens, IXe-XIIIe siècle"">
+<meta name=""citation_publisher"" content=""Imprimerie Catholique, Beirut"">
+<meta name=""citation_date"" content=""1920"">
+<meta name=""citation_language"" content=""Arabic"">"
+58,Sharḥ al-Adhkār,شرح الأذكار,5,Sufism,A text,0,"Naṣr Allāh Pūrjavādī, ""Sharḥ al-Adhkār,"" Maʿārif-i Islāmī 19/3 (1383^/2003): pp. 184-192.",0,22,27-Jun,5019,OCR,kitāb,3,A. Musto,"<meta name=""citation_title"" content=""Sharḥ al-Adhkār"">
+<meta name=""citation_authors"" content=""Abū Manṣūr al-Iṣfahānī"">
+<meta name=""citation_editors"" content=""Naṣr Allāh Pūrjavādī"">
+<meta name=""citation_journal_title"" content=""Maʿārif"">
+<meta name=""citation_issue"" content=""19"">
+<meta name=""citation_volume"" content=""3"">
+<meta name=""citation_date"" content=""1383/2003"">
+<meta name=""citation_firstpage"" content=""184"">
+<meta name=""citation_lastpage"" content=""192"">"
+59,Ādāb al-mutaṣawwifa,آداب المتصوفة,5,Sufism,A text,0,"Naṣr Allāh Pūrjavādī, ""Ādāb al-Mutaṣawwifah wa-Ḥaqāʾiquhā wa-Ishārātuhā,"" Maʿārif-i Islāmī 9/3 (1372^/1992): pp. 15-48",0,18,25-42,2816,OCR,kitāb,3,A. Musto,"<meta name=""citation_title"" content=""Ādāb al-Mutaṣawwifah wa-Ḥaqāʾiquhā wa-Ishārātuhā"">
+<meta name=""citation_authors"" content=""Abū Manṣūr al-Iṣfahānī"">
+<meta name=""citation_editors"" content=""Naṣr Allāh Pūrjavādī"">
+<meta name=""citation_journal_title"" content=""Maʿārif"">
+<meta name=""citation_issue"" content=""9"">
+<meta name=""citation_volume"" content=""3"">
+<meta name=""citation_date"" content=""1372/1992"">
+<meta name=""citation_firstpage"" content=""15"">
+<meta name=""citation_lastpage"" content=""48"">"
+60,Kitāb al-Iqtiṣād,كتاب الاقتصاد,14,Sufism,A text,http://www.worldcat.org/oclc/845058690,"Florian Sobieroj, Ibn Ḫafīf aš-Šīrāzī und seine Schrift Novizen erziehung (Kitāb al-Iqtiṣad). Biographische Studien, Edition und Übersetzung, pp. 443-486. Beiruter Texte und Studien Bd. 57. Beirut: Franz Steiner, 1998",0,44,443-486,11659,OCR,kitāb,3,A. Musto,
+61,Ṭawāsīn,طواسين,13,Sufism,A text,http://www.worldcat.org/oclc/50394851,"al-Ḥallāj. “Kitāb al-Ṭawāsīn.” In ʿAbbās. al-Ḥallāj: al-Aʿmāl al-Kāmilah."" Qāsim Muḥammad ʿAbbās (ed.). Beirut: Riyāḍ al-Rayyis, 2002",https://archive.org/details/sufi-works_201905,27,161-209,4083,OCR,kitāb,3,A. Musto,
+62,Maqāla fī amr al-ʿaql wa-tamthīl al-ab wa-l-ibn wa-l-rūḥ al-qudus,مقالة في امر العقل وتمثيل الاب والابن والروح القدس,26,naṣrāniyya,A text,https://www.worldcat.org/title/57220135,"Abū ʿAlī ʿĪsā b. Isḥāq b. Zurʿa. ""Maqāla fī amr al-ʿaql wa-tamthīl al-āb wa-l-ibn wa-l-rūḥ al-quds.” In Vingt traités théologiques d’auteurs arabes chrétiens, IXe-XIIIe siècle, edited by Louis Cheikho, Louis Malouf, and Constantin Bacha. Beirut: Imprimerie Catholique, 1920.",https://archive.org/details/VingtTraitesPhilosophiquesEtApologetiquesDauteursArabesChretiens,8,68-75,1423,OCR,maqāla,3,G. DiRusso,
+63,Maqāla fī al-qiyāma al-ʿāmma,مقالة في القيامة العامة,24,naṣrāniyya,A text,https://www.worldcat.org/title/57220135,"Īshūʿyāb b. Malkūn Muṭrān Nasībīn. ""Maqāla fī al-qiyāma al-ʿāmma.” In Vingt traités théologiques d’auteurs arabes chrétiens, IXe-XIIIe siècle, edited by Louis Cheikho, Louis Malouf, and Constantin Bacha. Beirut: Imprimerie Catholique, 1920.",https://archive.org/details/VingtTraitesPhilosophiquesEtApologetiquesDauteursArabesChretiens,2,166-167,385,OCR,maqāla,3,G. DiRusso,
+64,Maqāla fī kayfiyyat idrāk ḥaqīqat al-diyāna,مقالة في كفية ادراك حقيقة الديانة,31,naṣrāniyya,A text,https://www.worldcat.org/title/57220135,"Yūḥannā b. Mīnā. ""Maqāla fī kayfiyyat idrāk ḥaqīqat al-diyāna.” In Vingt traités théologiques d’auteurs arabes chrétiens, IXe-XIIIe siècle, edited by Louis Cheikho, Louis Malouf, and Constantin Bacha. Beirut: Imprimerie Catholique, 1920.",https://archive.org/details/VingtTraitesPhilosophiquesEtApologetiquesDauteursArabesChretiens,20,181-200,3483,OCR,maqāla,3,G. DiRusso,
+65,Maqāla fī ithbāt ṣidq al-injīl,مقالة في إثبات صدق الإنجيل,22,naṣrāniyya,A text,https://www.worldcat.org/title/57220135,"Abū Zakariyā Yaḥyā b. ʿAdī. ""Maqāla fī ithbāt ṣidq al-injīl.” In Vingt traités théologiques d’auteurs arabes chrétiens, IXe-XIIIe siècle, edited by Louis Cheikho, Louis Malouf, and Constantin Bacha. Beirut: Imprimerie Catholique, 1920.",https://archive.org/details/VingtTraitesPhilosophiquesEtApologetiquesDauteursArabesChretiens,4,168-171,653,CCEL,maqāla,3,G. DiRusso,
+66,Maqāla fī radd al-muslimīn wa-idḥāḍ mā yafta'itūn ʿalā al-naṣārā min al-iʿtiqād bi-thalāthat āliha,مقالة في رد المسلمين وادحاض ما يفتئتون على النصارا من الاعتقاد بثلاثة آلهة ,30,naṣrāniyya,A text,https://www.worldcat.org/title/57220135,"Abū al-Khayr b. al-Ṭayyib al-Rashīd. ""Maqāla fī radd al-muslimīn wa-idḥāḍ mā yafta'itūn ʿalā al-naṣārā min al-iʿtiqād bi-thalāthat āliha.” In Vingt traités théologiques d’auteurs arabes chrétiens, IXe-XIIIe siècle, edited by Louis Cheikho, Louis Malouf, and Constantin Bacha. Beirut: Imprimerie Catholique, 1920.",https://www.tertullian.org/fathers/sbath_18_Abu_al-Khayr_ibn_al-Tayyib.htm,3,176-178,481,CCEL,maqāla,3,G. DiRusso,
+67,Maqāla fī al-mawāḍiʿ allatī fī-hā al-khilāf bayn al-yahūd wa-l-naṣārā,مقالة في المواضع التي فيها الخلاف بين اليهود والنصارى,26,naṣrāniyya,A text,https://www.worldcat.org/title/57220135,"Abū ʿAlī ʿĪsā b. Isḥāq b. Zurʿa. ""Maqāla fī al-mawāḍiʿ allatī fī-hā al-khilāh bayn al-yahūd wa-l-naṣārā.” In Vingt traités théologiques d’auteurs arabes chrétiens, IXe-XIIIe siècle, edited by Louis Cheikho, Louis Malouf, and Constantin Bacha. Beirut: Imprimerie Catholique, 1920.",https://archive.org/details/VingtTraitesPhilosophiquesEtApologetiquesDauteursArabesChretiens,34,19-52,6464,OCR,maqāla,3,J. Farrell,
+68,Maqāla fī wujūd al-khāliq wa-kamālātu-hu,مقالة في وجود الخالق وكمالاته,29,naṣrāniyya,A text,https://www.worldcat.org/title/57220135,"Dānyāl b. al-Khaṭṭāb. ""Maqāla fī wujūd al-khāliq wa-kamālātu-hu.” In  Vingt traités théologiques d’auteurs arabes chrétiens, IXe-XIIIe siècle, edited by Louis Cheikho, Louis Malouf, and Constantin Bacha. Beirut: Imprimerie Catholique, 1920.",https://archive.org/details/VingtTraitesPhilosophiquesEtApologetiquesDauteursArabesChretiens,4,148-151,648,OCR,maqāla,3,J. Farrell,
+69,Maqāla fī al-tathlīth,مقالة في التثليث,26,naṣrāniyya,A text,https://www.worldcat.org/title/57220135,"Ibn Zurʿa. “Maqāla fī al-tathlīth.” In Vingt traités théologiques d’auteurs arabes chrétiens, IXe-XIIIe siècle, edited by Louis Cheikho, Louis Malouf, and Constantin Bacha. Beirut: Imprimerie Catholique, 1920.",https://archive.org/details/VingtTraitesPhilosophiquesEtApologetiquesDauteursArabesChretiens,14,19-Jun,2658,OCR,maqāla,3,J. Farrell,
+70,Maqāla fī al-mawāḍiʿ allatī fī-hā al-khilāf bayn al-muslimīn wa-l-naṣārā,مقالة في المواضع التي فيها الخلاف بين المسلمين والنصارى,26,naṣrāniyya,A text,https://www.worldcat.org/title/57220135,"Abū ʿAlī ʿĪsā b. Isḥāq b. Zurʿa. ""Maqāla fī al-mawāḍiʿ allatī fī-hā al-khilāh bayn al-muslimīn wa-l-naṣārā.” In Vingt traités théologiques d’auteurs arabes chrétiens, IXe-XIIIe siècle, edited by Louis Cheikho, Louis Malouf, and Constantin Bacha. Beirut: Imprimerie Catholique, 1920.",https://archive.org/details/VingtTraitesPhilosophiquesEtApologetiquesDauteursArabesChretiens,17,52-68,3457,OCR,maqāla,3,J. Farrell,
+71,Maqāla fī al-radd ʿalā qaḍāyā shittā yaḥjudu-hā al-nās,مقالة في الرد على قضايا شتى يحجدها الناس,28,naṣrāniyya,A text,https://www.worldcat.org/title/57220135,"ʿAbd Allāh b. al-Faḍl al-Anṭākī. ""Maqāla fī al-radd ʿalā qaḍāyā shittā yaḥjudu-hā al-nās.” In  Vingt traités théologiques d’auteurs arabes chrétiens, IXe-XIIIe siècle, edited by Louis Cheikho, Louis Malouf, and Constantin Bacha. Beirut: Imprimerie Catholique, 1920.",https://archive.org/details/VingtTraitesPhilosophiquesEtApologetiquesDauteursArabesChretiens,18,131-148,3405,OCR,maqāla,3,J. Farrell,
+72,Maqāla fī radd man yattahim al-naṣarā bi-ʿibādat al-aṣnām min ḥaythu anna-hum yasjidūna li-l-ṣalīb wa-yukrimūn al-ṣuwar,مقالة في رد من يتهم النصارا بالعبادة الأصنام من حيث أنهم يسجدون الصليب ويكرمون الصور,24,naṣrāniyya,A text,https://www.worldcat.org/title/57220135,"Īshūʿyāb b. Malkūn Muṭrān Nasībīn. ""Maqāla fī radd man yattahim al-naṣarā bi-ʿibādat al-aṣnām min ḥaythu anna-hum yasjidūna li-l-ṣalīb wa-yukrimūn al-ṣuwar.” In  Vingt traités théologiques d’auteurs arabes chrétiens, IXe-XIIIe siècle, edited by Louis Cheikho, Louis Malouf, and Constantin Bacha. Beirut: Imprimerie Catholique, 1920.",https://archive.org/details/VingtTraitesPhilosophiquesEtApologetiquesDauteursArabesChretiens,9,158-165,1426,OCR,maqāla,3,J. Farrell,
+73,Martyrdom of James,شهادة يعقوب بن حلفى,32,naṣrāniyya,A text,https://www.worldcat.org/title/4937504,"Gibson, Margaret Dunlop, ed. and trans. Apocrypha Sinaitica. Studia Sinaitica 5. London: C. J. Clay and Sons, 1896",https://archive.org/details/apocryphasinait01gibsgoog/page/n28/mode/2up,2,63-64,300,OCR,qiṣṣa,3,G. DiRusso,
+74,Preaching of Simon,بشارة الطوبان القديس سيمن بن كلاوبا,32,naṣrāniyya,A text,https://www.worldcat.org/title/4937504,"Gibson, Margaret Dunlop, ed. and trans. Apocrypha Sinaitica. Studia Sinaitica 5. London: C. J. Clay and Sons, 1897",https://archive.org/details/apocryphasinait01gibsgoog/page/n28/mode/2up,3,65-67,581,OCR,qiṣṣa,3,G. DiRusso,
+75,Martyrdom of Simon,شهادة سيمن بن كلاوبا,32,naṣrāniyya,A text,https://www.worldcat.org/title/4937504,"Gibson, Margaret Dunlop, ed. and trans. Apocrypha Sinaitica. Studia Sinaitica 5. London: C. J. Clay and Sons, 1898",https://archive.org/details/apocryphasinait01gibsgoog/page/n28/mode/2up,2,68-69,338,OCR,qiṣṣa,3,G. DiRusso,
+76,Acts of Sts. Peter and Paul,خبر بطرس وبولص,32,naṣrāniyya,A text,https://syri.ac/bibliography/1618320661,"Lantschoot, Arnold van. “Contribution aux Actes de S. Pierre et de S. Paul II – Recension Karšuni des Actes de S. Pierre et S. Paul.” Le Muséon 68 (1955): 219–33.",0,9,219-227,1657,OCR,qiṣṣa,3,G. DiRusso,
+77,Preaching of Peter,كرز سمعان,33,naṣrāniyya,A text,https://www.worldcat.org/title/4937504,"Gibson, Margaret Dunlop, ed. and trans. Apocrypha Sinaitica. Studia Sinaitica 5. London: C. J. Clay and Sons, 1898",https://archive.org/details/apocryphasinait01gibsgoog/page/n28/mode/2up,8,55-62,1655,OCR,qiṣṣa,3,G. DiRusso,
+78,Martyrdom of Clement,خبر شهادة القديس اكليمنظس,32,naṣrāniyya,A text,https://www.worldcat.org/title/4937504,"Gibson, Margaret Dunlop, ed. and trans. Apocrypha Siniatica. Studia Sinaitica 5. London: C. J. Clay and Sons, 1896",https://archive.org/details/apocryphasinait01gibsgoog/page/n28/mode/2up,9,45-53,1980,OCR,qiṣṣa,3,G. DiRusso,
+79,Anaphora Pilati,تذكرة ما فعل بربنا يسوع المسيح على عهد بلاطس البنطى,34,naṣrāniyya,A text,https://www.worldcat.org/title/4937504,"Gibson, Margaret Dunlop, ed. and trans. Apocrypha Siniatica. Studia Sinaitica 5. London: C. J. Clay and Sons, 1896",https://archive.org/details/apocryphasinait01gibsgoog/page/n28/mode/2up,7,11-Jan,1422,OCR,qiṣṣa,3,G. DiRusso,
+80,Recognitions of Clement,قصة تعرف اقليمس,35,naṣrāniyya,A text,https://www.worldcat.org/title/4937504,"Gibson, Margaret Dunlop, ed. and trans. Apocrypha Siniatica. Studia Sinaitica 5. London: C. J. Clay and Sons, 1896",https://archive.org/details/apocryphasinait01gibsgoog/page/n28/mode/2up,15,13-27,3821,OCR,qiṣṣa,3,J. Farrell,
+81,ʿUyūb al-Nafs,كتاب عيوب النفس,11,Sufism,A text,https://www.worldcat.org/title/235974908,Worldcat Link,0,33,May-39,4485,OCR,kitāb,3,A. Musto,
+82,Ḥaqā'iq al-Tafsīr,حقائق التفسير,11,Sufism,A text,https://www.worldcat.org/title/49008316,Worldcat Link,0,862,24-886,203086,OITI,kitāb,3,A. Musto,
+83,Riyāḍat al-nafs,كتاب رياضة النفس,38,Sufism,A text,https://www.worldcat.org/title/1143391416,Worldcat Link,0,47,29-76,10498,OITI,kitāb,3,A. Musto,
+84,al-ʿAql wa-l-hawā,العقل والهوى,38,Sufism,A text,https://www.worldcat.org/title/1143391416,Worldcat Link,0,6,7-Jan,3626,OITI,kitāb,3,A. Musto,
+85,Kitāb al-Mawāqif,كتاب المواقف,36,Sufism,A text,https://worldcat.org/en/title/957336968,Worldcat Link,0,141,1-142,25774,OITI,kitāb,3,A. Musto,
+86,Kitāb al-Mukhāṭabāt,كتاب المخاطبات,36,Sufism,A text,https://worldcat.org/en/title/957336968,Worldcat Link,0,75,143-218,13642,OITI,kitāb,3,A. Musto,
+87,Qūt al-Qulūb,قوت القلوب,39,Sufism,A text,https://worldcat.org/title/61248962,Worldcat Link,0,928,7-935,380466,OITI,kitāb,3,A. Musto,
+89,Naḥw al-Qulūb,نحو القلوب,37,Sufism,A text,https://worldcat.org/title/1143391416,Worldcat Link,0,6,39-45,1015,OITI,kitāb,3,A. Musto,
+90,al-Risāla al-Qushayriyya,الرسالة القشيرية,37,Sufism,A text,https://www.worldcat.org/title/21947117?oclcNum=21947117,Worldcat Link,0,561,14-585,111637,OITI,kitāb,3,A. Musto,
+91,Manāzil al-Sā'irīn,منازل السائرين,40,Sufism,A text,https://www.worldcat.org/title/643418044,Worldcat Link,0,136,3-139,10204,OITI,kitāb,3,A. Musto,

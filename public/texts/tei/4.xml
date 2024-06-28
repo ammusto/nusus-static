@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>رسالة إلى بعض إخوانه</title>
+                <author>أبو القاسم الجنيد</author>
+                <respStmt>
+                    <resp>printed edition OCR'd using eScriptorium and corrected</resp>
+                    <name>Antonio Musto</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher />
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>http://www.worldcat.org/oclc/23141078</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Prepared for the nusūs corpus of digitally neglected texts.</p>
+            </projectDesc>
+            <editorialDecl>
+                <normalization>
+                    <p>Hamzas have been normalized and final yāʾ has been normalized to two dots</p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="chapter" n="1">
+                <pb n="1" />
+                <head> رسالة لأبي القاسم الجنيد إلى بعض إخوانه </head>
+                <p> صفا لك من الماجد الجواد جميل ما أولاك وأخلصك بما خصك به وحباك وكشف لك عن حقيقة
+                    ما به بداك وآثرك بما استأثر به عمن سواك وقربك في الزلفى لديه وأدناك وبسطك
+                    بالتأنيس في محل قربه وناجاك وانتجبك بجميل أمره وصافاك وأيدك في عظيم تلك المواطن
+                    وقريب تلك الأماكن بالقوة والتمكين والهدوء والدعة والتسكين لئلا تقوى عليك البدائة
+                    الواردة والأنباء الغريبة القاصدة </p>
+                <p> فيلزمك لقوة ذلك عليك في ابتداء خلوصه إبهات النهل لما لا يجد لما لا يقال منه
+                    محتمل فكيف يحتمل ذلك أو تقف العقول بضبط ما هنالك إن لم يمسكها بالكلاية ويكنف
+                    سرائرها بالرعاية </p>
+                <p> فأين أنت وقد أقبل بك كلك عليه وأقبل بما يريده منك لديه وقد بسط </p>
+                <p> لكنه جل ثناؤه وتقدست أسماؤه جاد بالفضل على من أخلصه وعاد بالعطف على من اصطنعه
+                    فحمل عنهم ما تحمله إياه وحملوا ما أراده لهم وتفضل به من إدراكهم له جعلنا الله
+                    وإياك من أقرب أوليائه لديه منزلا إن ربى سميع قريب</p>
+            </div>
+        </body>
+    </text>
+</TEI>

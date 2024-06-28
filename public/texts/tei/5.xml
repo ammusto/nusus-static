@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>رسالة إلى يحيى بن معاذ الرازي</title>
+                <author>أبو القاسم الجنيد</author>
+                <respStmt>
+                    <resp>printed edition OCR'd using eScriptorium and corrected</resp>
+                    <name>Antonio Musto</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher />
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>http://www.worldcat.org/oclc/23141078</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Prepared for the nusūs corpus of digitally neglected texts.</p>
+            </projectDesc>
+            <editorialDecl>
+                <normalization>
+                    <p>Hamzas have been normalized and final yāʾ has been normalized to two dots</p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="chapter" n="1">
+                <pb n="2" />
+                <head> رسالة أبى القاسم الجنيد بن محمد إلى يحيى بن معاذ الرازى رحمة الله عليهما </head>
+                <p> لا غبت بك عن شاهدك ولا غاب شاهدك بك عنك ولا حلت بتحويلك عن حالك ولا حال حالك
+                    بتحويله عنك ولا بنت عن حقيقة أنبائك ولا بانت أنباؤك بغيبة الأنباء منك ولا زلت في
+                    الأزل شاهد الأزل في أزليتك ولا زال الأزل يكون لك مؤيدا لما زال منك فكنت بحيث كنت
+                    كما لم تكن ثم كنت بفردانيتك متوحدا و بوحدانيتك مؤيدا بلا شاهد من الشواهد يشهدك
+                    ولا غبت لدى الغيب من الغيب بغيبتك فأين ما لا أين لأينه إذ مؤين الأينات مبيد لما
+                    اينة وإذ الإبادة مبادة في تأبيد مبيد الإبادات وإذ الاجتماع فيما تفرق والتفريق
+                    فيما جمع فرق في جمع جمعه وإذ الجمع بالجمع للجمع جمع فيما جمعه</p>
+            </div>
+        </body>
+    </text>
+</TEI>
